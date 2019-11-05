@@ -1,0 +1,5 @@
+# Fichiers à ne pas prendre en compte dans git
+
+# Les fichiers de lock
+.~lock*
+
