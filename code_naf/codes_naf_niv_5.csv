@@ -1,0 +1,733 @@
+Niv5_Niv4_Niv3_Niv2_Niv1_NAF Rev 2 - Version finale_NAF Rev 2 - 65 caractères_NAF Rev 2 - 40 Caractères
+01.11Z_01.11_01.1_01_A_Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses_Culture de céréales (sf riz) légumineuses, graines oléagineuses_Cult céréale, légumineuse, graine oléag.
+01.12Z_01.12_01.1_01_A_Culture du riz_Culture du riz_Culture du riz
+01.13Z_01.13_01.1_01_A_Culture de légumes, de melons, de racines et de tubercules_Culture de légumes, de melons, de racines et de tubercules_Cult. légume, melon, racine & tubercule
+01.14Z_01.14_01.1_01_A_Culture de la canne à sucre_Culture de la canne à sucre_Culture de la canne à sucre
+01.15Z_01.15_01.1_01_A_Culture du tabac_Culture du tabac_Culture du tabac
+01.16Z_01.16_01.1_01_A_Culture de plantes à fibres_Culture de plantes à fibres_Culture de plantes à fibres
+01.19Z_01.19_01.1_01_A_Autres cultures non permanentes_Autres cultures non permanentes_Autres cultures non permanentes
+01.21Z_01.21_01.2_01_A_Culture de la vigne_Culture de la vigne_Culture de la vigne
+01.22Z_01.22_01.2_01_A_Culture de fruits tropicaux et subtropicaux_Culture de fruits tropicaux et subtropicaux_Culture fruits tropicaux et subtropicaux
+01.23Z_01.23_01.2_01_A_Culture d'agrumes_Culture d'agrumes_Culture d'agrumes
+01.24Z_01.24_01.2_01_A_Culture de fruits à pépins et à noyau_Culture de fruits à pépins et à noyau_Culture de fruits à pépins et à noyau
+01.25Z_01.25_01.2_01_A_Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque_Culture d'aut. fruits d'arbres ou d'arbustes et de fruits a coque_Cult. d'aut. fruits & de fruits à coque
+01.26Z_01.26_01.2_01_A_Culture de fruits oléagineux_Culture de fruits oléagineux_Culture de fruits oléagineux
+01.27Z_01.27_01.2_01_A_Culture de plantes à boissons_Culture de plantes à boissons_Culture de plantes à boissons
+01.28Z_01.28_01.2_01_A_Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques_Culture plantes à épices aromatiques médicinales pharmaceutiques_Cult. plante aromatiq. médicin. pharma.
+01.29Z_01.29_01.2_01_A_Autres cultures permanentes_Autres cultures permanentes_Autres cultures permanentes
+01.30Z_01.30_01.3_01_A_Reproduction de plantes_Reproduction de plantes_Reproduction de plantes
+01.41Z_01.41_01.4_01_A_Élevage de vaches laitières_Élevage de vaches laitières_Élevage de vaches laitières
+01.42Z_01.42_01.4_01_A_Élevage d'autres bovins et de buffles_Élevage d'autres bovins et de buffles_Élevage d'autres bovins et de buffles
+01.43Z_01.43_01.4_01_A_Élevage de chevaux et d'autres équidés_Élevage de chevaux et d'autres équidés_Élevage de chevaux et d'autres équidés
+01.44Z_01.44_01.4_01_A_Élevage de chameaux et d'autres camélidés_Élevage de chameaux et d'autres camélidés_Élevage de chameaux & d'autres camélidés
+01.45Z_01.45_01.4_01_A_Élevage d'ovins et de caprins_Élevage d'ovins et de caprins_Élevage d'ovins et de caprins
+01.46Z_01.46_01.4_01_A_Élevage de porcins_Élevage de porcins_Élevage de porcins
+01.47Z_01.47_01.4_01_A_Élevage de volailles_Élevage de volailles_Élevage de volailles
+01.49Z_01.49_01.4_01_A_Élevage d'autres animaux_Élevage d'autres animaux_Élevage d'autres animaux
+01.50Z_01.50_01.5_01_A_Culture et élevage associés_Culture et élevage associés_Culture et élevage associés
+01.61Z_01.61_01.6_01_A_Activités de soutien aux cultures_Activités de soutien aux cultures_Activités de soutien aux cultures
+01.62Z_01.62_01.6_01_A_Activités de soutien à la production animale_Activités de soutien à la production animale_Activités de soutien à la prod. animale
+01.63Z_01.63_01.6_01_A_Traitement primaire des récoltes_Traitement primaire des récoltes_Traitement primaire des récoltes
+01.64Z_01.64_01.6_01_A_Traitement des semences_Traitement des semences_Traitement des semences
+01.70Z_01.70_01.7_01_A_Chasse, piégeage et services annexes_Chasse, piégeage et services annexes_Chasse, piégeage et services annexes
+02.10Z_02.10_02.1_02_A_Sylviculture et autres activités forestières_Sylviculture et autres activités forestières_Sylviculture & autres act. forestières
+02.20Z_02.20_02.2_02_A_Exploitation forestière_Exploitation forestière_Exploitation forestière
+02.30Z_02.30_02.3_02_A_Récolte de produits forestiers non ligneux poussant à l'état sauvage_Récolte prod. forestiers non ligneux poussant à l'état sauvage_Récolte prodts forestiers non ligneux
+02.40Z_02.40_02.4_02_A_Services de soutien à l'exploitation forestière_Services de soutien à l'exploitation forestière_Services de soutien à l'expl. forestière
+03.11Z_03.11_03.1_03_A_Pêche en mer_Pêche en mer_Pêche en mer
+03.12Z_03.12_03.1_03_A_Pêche en eau douce_Pêche en eau douce_Pêche en eau douce
+03.21Z_03.21_03.2_03_A_Aquaculture en mer_Aquaculture en mer_Aquaculture en mer
+03.22Z_03.22_03.2_03_A_Aquaculture en eau douce_Aquaculture en eau douce_Aquaculture en eau douce
+05.10Z_05.10_05.1_05_B_Extraction de houille_Extraction de houille_Extraction de houille
+05.20Z_05.20_05.2_05_B_Extraction de lignite_Extraction de lignite_Extraction de lignite
+06.10Z_06.10_06.1_06_B_Extraction de pétrole brut_Extraction de pétrole brut_Extraction de pétrole brut
+06.20Z_06.20_06.2_06_B_Extraction de gaz naturel_Extraction de gaz naturel_Extraction de gaz naturel
+07.10Z_07.10_07.1_07_B_Extraction de minerais de fer_Extraction de minerais de fer_Extraction de minerais de fer
+07.21Z_07.21_07.2_07_B_Extraction de minerais d'uranium et de thorium_Extraction de minerais d'uranium et de thorium_Extr. de minerais d'uranium & de thorium
+07.29Z_07.29_07.2_07_B_Extraction d'autres minerais de métaux non ferreux_Extraction d'autres minerais de métaux non ferreux_Extr. aut. minerai de métaux non ferreux
+08.11Z_08.11_08.1_08_B_Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise_Extraction pierres ornement. construc. calcaire industriel, gypse_Extr. pierre ornement. & construct. etc.
+08.12Z_08.12_08.1_08_B_Exploitation de gravières et sablières, extraction d'argiles et de kaolin_Exploit gravieres & sablieres, extraction argiles & kaolin_Exploit. gravière & sabl., extr. argile
+08.91Z_08.91_08.9_08_B_Extraction des minéraux chimiques et d'engrais minéraux_Extraction des minéraux chimiques et d'engrais minéraux_Extr. minéraux chimiq. & engrais min.
+08.92Z_08.92_08.9_08_B_Extraction de tourbe_Extraction de tourbe_Extraction de tourbe
+08.93Z_08.93_08.9_08_B_Production de sel_Production de sel_Production de sel
+08.99Z_08.99_08.9_08_B_Autres activités extractives n.c.a._Autres activités extractives n.c.a._Autres activités extractives n.c.a.
+09.10Z_09.10_09.1_09_C_Activités de soutien à l'extraction d'hydrocarbures_Activités de soutien à l'extraction d'hydrocarbures_Act. de soutien à l'extr. hydrocarbures
+09.90Z_09.90_09.9_09_C_Activités de soutien aux autres industries extractives_Activités de soutien aux autres industries extractives_Act. de soutien aut. indus. extractives
+10.11Z_10.11_10.1_10_C_Transformation et conservation de la viande de boucherie_Transformation et conservation de la viande de boucherie_Transf. & conserv. viande de boucherie
+10.12Z_10.12_10.1_10_C_Transformation et conservation de la viande de volaille_Transformation et conservation de la viande de volaille_Transf. & conserv. de viande de volaille
+10.13A_10.13_10.1_10_C_Préparation industrielle de produits à base de viande_Préparation industrielle de produits à base de viande_Prépa. indust. produits à base de viande
+10.13B_10.13_10.1_10_C_Charcuterie_Charcuterie_Charcuterie
+10.20Z_10.20_10.2_10_C_Transformation et conservation de poisson, de crustacés et de mollusques_Transform. & conserv. poisson, crustacés & mollusques_Transf. & conserv. poisson, crust., etc.
+10.31Z_10.31_10.3_10_C_Transformation et conservation de pommes de terre_Transformation et conservation de pommes de terre_Transf. et conserv. de pommes de terre
+10.32Z_10.32_10.3_10_C_Préparation de jus de fruits et légumes_Préparation de jus de fruits et légumes_Préparation de jus de fruits et légumes
+10.39A_10.39_10.3_10_C_Autre transformation et conservation de légumes_Autre transformation et conservation de légumes_Autre transf. et conserv. de légumes
+10.39B_10.39_10.3_10_C_Transformation et conservation de fruits_Transformation et conservation de fruits_Transformation et conservation de fruits
+10.41A_10.41_10.4_10_C_Fabrication d'huiles et graisses brutes_Fabrication d'huiles et graisses brutes_Fabrication d'huiles et graisses brutes
+10.41B_10.41_10.4_10_C_Fabrication d'huiles et graisses raffinées_Fabrication d'huiles et graisses raffinées_Fab. d'huiles et graisses raffinées
+10.42Z_10.42_10.4_10_C_Fabrication de margarine et graisses comestibles similaires_Fabrication de margarine et graisses comestibles similaires_Fab. de margarine & graisses similaires
+10.51A_10.51_10.5_10_C_Fabrication de lait liquide et de produits frais_Fabrication de lait liquide et de produits frais_Fab. de lait liquide & de produits frais
+10.51B_10.51_10.5_10_C_Fabrication de beurre_Fabrication de beurre_Fabrication de beurre
+10.51C_10.51_10.5_10_C_Fabrication de fromage_Fabrication de fromage_Fabrication de fromage
+10.51D_10.51_10.5_10_C_Fabrication d'autres produits laitiers_Fabrication d'autres produits laitiers_Fabrication d'autres produits laitiers
+10.52Z_10.52_10.5_10_C_Fabrication de glaces et sorbets_Fabrication de glaces et sorbets_Fabrication de glaces et sorbets
+10.61A_10.61_10.6_10_C_Meunerie_Meunerie_Meunerie
+10.61B_10.61_10.6_10_C_Autres activités du travail des grains_Autres activités du travail des grains_Autres activités du travail des grains
+10.62Z_10.62_10.6_10_C_Fabrication de produits amylacés_Fabrication de produits amylacés_Fabrication de produits amylacés
+10.71A_10.71_10.7_10_C_Fabrication industrielle de pain et de pâtisserie fraîche_Fabrication industrielle de pain et de pâtisserie fraîche_Fab. indus. de pain & pâtisserie fraîche
+10.71B_10.71_10.7_10_C_Cuisson de produits de boulangerie_Cuisson de produits de boulangerie_Cuisson de produits de boulangerie
+10.71C_10.71_10.7_10_C_Boulangerie et boulangerie-pâtisserie_Boulangerie et boulangerie-pâtisserie_Boulangerie et boulangerie-pâtisserie
+10.71D_10.71_10.7_10_C_Pâtisserie_Pâtisserie_Pâtisserie
+10.72Z_10.72_10.7_10_C_Fabrication de biscuits, biscottes et pâtisseries de conservation_Fabrication de biscuits, biscottes et pâtisseries de conservation_Fab. pain, biscuit & pâtiss. de conserv.
+10.73Z_10.73_10.7_10_C_Fabrication de pâtes alimentaires_Fabrication de pâtes alimentaires_Fabrication de pâtes alimentaires
+10.81Z_10.81_10.8_10_C_Fabrication de sucre_Fabrication de sucre_Fabrication de sucre
+10.82Z_10.82_10.8_10_C_Fabrication de cacao, chocolat et de produits de confiserie_Fabrication de cacao, chocolat et de produits de confiserie_Fabric. de cacao, chocolat & confiseries
+10.83Z_10.83_10.8_10_C_Transformation du thé et du café_Transformation du thé et du café_Transformation du thé et du café
+10.84Z_10.84_10.8_10_C_Fabrication de condiments et assaisonnements_Fabrication de condiments et assaisonnements_Fabric. de condiments et assaisonnements
+10.85Z_10.85_10.8_10_C_Fabrication de plats préparés_Fabrication de plats préparés_Fabrication de plats préparés
+10.86Z_10.86_10.8_10_C_Fabrication d'aliments homogénéisés et diététiques_Fabrication d'aliments homogénéisés et diététiques_Fab. d'aliment homogénéisé & diététique
+10.89Z_10.89_10.8_10_C_Fabrication d'autres produits alimentaires n.c.a._Fabrication d'autres produits alimentaires n.c.a._Fab. d'autres prod. alimentaires n.c.a.
+10.91Z_10.91_10.9_10_C_Fabrication d'aliments pour animaux de ferme_Fabrication d'aliments pour animaux de ferme_Fabric. d'aliments pour animaux de ferme
+10.92Z_10.92_10.9_10_C_Fabrication d'aliments pour animaux de compagnie_Fabrication d'aliments pour animaux de compagnie_Fab. aliments pour animaux de compagnie
+11.01Z_11.01_11.0_11_C_Production de boissons alcooliques distillées_Production de boissons alcooliques distillées_Prod. de boissons alcooliques distillées
+11.02A_11.02_11.0_11_C_Fabrication de vins effervescents_Fabrication de vins effervescents_Fabrication de vins effervescents
+11.02B_11.02_11.0_11_C_Vinification_Vinification_Vinification
+11.03Z_11.03_11.0_11_C_Fabrication de cidre et de vins de fruits_Fabrication de cidre et de vins de fruits_Fabrication de cidre & de vins de fruits
+11.04Z_11.04_11.0_11_C_Production d'autres boissons fermentées non distillées_Production d'autres boissons fermentées non distillées_Prod. aut. boisson fermentée non distil.
+11.05Z_11.05_11.0_11_C_Fabrication de bière_Fabrication de bière_Fabrication de bière
+11.06Z_11.06_11.0_11_C_Fabrication de malt_Fabrication de malt_Fabrication de malt
+11.07A_11.07_11.0_11_C_Industrie des eaux de table_Industrie des eaux de table_Industrie des eaux de table
+11.07B_11.07_11.0_11_C_Production de boissons rafraîchissantes_Production de boissons rafraîchissantes_Production de boissons rafraîchissantes
+12.00Z_12.00_12.0_12_C_Fabrication de produits à base de tabac_Fabrication de produits à base de tabac_Fabrication de produits à base de tabac
+13.10Z_13.10_13.1_13_C_Préparation de fibres textiles et filature_Préparation de fibres textiles et filature_Prépa. de fibres textiles et filature
+13.20Z_13.20_13.2_13_C_Tissage_Tissage_Tissage
+13.30Z_13.30_13.3_13_C_Ennoblissement textile_Ennoblissement textile_Ennoblissement textile
+13.91Z_13.91_13.9_13_C_Fabrication d'étoffes à mailles_Fabrication d'étoffes à mailles_Fabrication d'étoffes à mailles
+13.92Z_13.92_13.9_13_C_Fabrication d'articles textiles, sauf habillement_Fabrication d'articles textiles, sauf habillement_Fab. d'article textile, sauf habillement
+13.93Z_13.93_13.9_13_C_Fabrication de tapis et moquettes_Fabrication de tapis et moquettes_Fabrication de tapis et moquettes
+13.94Z_13.94_13.9_13_C_Fabrication de ficelles, cordes et filets_Fabrication de ficelles, cordes et filets_Fabric. de ficelles, cordes et filets
+13.95Z_13.95_13.9_13_C_Fabrication de non-tissés, sauf habillement_Fabrication de non-tissés, sauf habillement_Fabric. de non-tissés, sauf habillement
+13.96Z_13.96_13.9_13_C_Fabrication d'autres textiles techniques et industriels_Fabrication d'autres textiles techniques et industriels_Fab. autre textile techniq. & industriel
+13.99Z_13.99_13.9_13_C_Fabrication d'autres textiles n.c.a._Fabrication d'autres textiles n.c.a._Fabrication d'autres textiles n.c.a.
+14.11Z_14.11_14.1_14_C_Fabrication de vêtements en cuir_Fabrication de vêtements en cuir_Fabrication de vêtements en cuir
+14.12Z_14.12_14.1_14_C_Fabrication de vêtements de travail_Fabrication de vêtements de travail_Fabrication de vêtements de travail
+14.13Z_14.13_14.1_14_C_Fabrication de vêtements de dessus_Fabrication de vêtements de dessus_Fabrication de vêtements de dessus
+14.14Z_14.14_14.1_14_C_Fabrication de vêtements de dessous_Fabrication de vêtements de dessous_Fabrication de vêtements de dessous
+14.19Z_14.19_14.1_14_C_Fabrication d'autres vêtements et accessoires_Fabrication d'autres vêtements et accessoires_Fabric. autres vêtements et accessoires
+14.20Z_14.20_14.2_14_C_Fabrication d'articles en fourrure_Fabrication d'articles en fourrure_Fabrication d'articles en fourrure
+14.31Z_14.31_14.3_14_C_Fabrication d'articles chaussants à mailles_Fabrication d'articles chaussants à mailles_Fabric. d'articles chaussants à mailles
+14.39Z_14.39_14.3_14_C_Fabrication d'autres articles à mailles_Fabrication d'autres articles à mailles_Fabrication d'autres articles à mailles
+15.11Z_15.11_15.1_15_C_Apprêt et tannage des cuirs ; préparation et teinture des fourrures_Apprêt, tannage des cuirs; préparation et teinture des fourrures_Prépa. cuirs; prép. & teinture fourrures
+15.12Z_15.12_15.1_15_C_Fabrication d'articles de voyage, de maroquinerie et de sellerie_Fabrication d'articles de voyage, de maroquinerie et de sellerie_Fab. art. voyage, maroquin., & sellerie
+15.20Z_15.20_15.2_15_C_Fabrication de chaussures_Fabrication de chaussures_Fabrication de chaussures
+16.10A_16.10_16.1_16_C_Sciage et rabotage du bois, hors imprégnation_Sciage et rabotage du bois, hors imprégnation_Sciage & rabotage bois, sf imprégnation
+16.10B_16.10_16.1_16_C_Imprégnation du bois_Imprégnation du bois_Imprégnation du bois
+16.21Z_16.21_16.2_16_C_Fabrication de placage et de panneaux de bois_Fabrication de placage et de panneaux de bois_Fabric. placage et panneaux de bois
+16.22Z_16.22_16.2_16_C_Fabrication de parquets assemblés_Fabrication de parquets assemblés_Fabrication de parquets assemblés
+16.23Z_16.23_16.2_16_C_Fabrication de charpentes et d'autres menuiseries_Fabrication de charpentes et d'autres menuiseries_Fab. charpentes et autres menuiseries
+16.24Z_16.24_16.2_16_C_Fabrication d'emballages en bois_Fabrication d'emballages en bois_Fabrication d'emballages en bois
+16.29Z_16.29_16.2_16_C_Fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie_Fabrication objets divers en bois, liège, vannerie et sparterie_Fab. objet div. bois, liège, vann., etc.
+17.11Z_17.11_17.1_17_C_Fabrication de pâte à papier_Fabrication de pâte à papier_Fabrication de pâte à papier
+17.12Z_17.12_17.1_17_C_Fabrication de papier et de carton_Fabrication de papier et de carton_Fabrication de papier et de carton
+17.21A_17.21_17.2_17_C_Fabrication de carton ondulé_Fabrication de carton ondulé_Fabrication de carton ondulé
+17.21B_17.21_17.2_17_C_Fabrication de cartonnages_Fabrication de cartonnages_Fabrication de cartonnages
+17.21C_17.21_17.2_17_C_Fabrication d'emballages en papier_Fabrication d'emballages en papier_Fabrication d'emballages en papier
+17.22Z_17.22_17.2_17_C_Fabrication d'articles en papier à usage sanitaire ou domestique_Fabrication d'articles en papier à usage sanitaire ou domestique_Fab. article papier sanit. ou domestique
+17.23Z_17.23_17.2_17_C_Fabrication d'articles de papeterie_Fabrication d'articles de papeterie_Fabrication d'articles de papeterie
+17.24Z_17.24_17.2_17_C_Fabrication de papiers peints_Fabrication de papiers peints_Fabrication de papiers peints
+17.29Z_17.29_17.2_17_C_Fabrication d'autres articles en papier ou en carton_Fabrication d'autres articles en papier ou en carton_Fab. aut. article en papier ou en carton
+18.11Z_18.11_18.1_18_C_Imprimerie de journaux_Imprimerie de journaux_Imprimerie de journaux
+18.12Z_18.12_18.1_18_C_Autre imprimerie (labeur)_Autre imprimerie (labeur)_Autre imprimerie (labeur)
+18.13Z_18.13_18.1_18_C_Activités de pré-presse_Activités de pré-presse_Activités de pré-presse
+18.14Z_18.14_18.1_18_C_Reliure et activités connexes_Reliure et activités connexes_Reliure et activités connexes
+18.20Z_18.20_18.2_18_C_Reproduction d'enregistrements_Reproduction d'enregistrements_Reproduction d'enregistrements
+19.10Z_19.10_19.1_19_C_Cokéfaction_Cokéfaction_Cokéfaction
+19.20Z_19.20_19.2_19_C_Raffinage du pétrole_Raffinage du pétrole_Raffinage du pétrole
+20.11Z_20.11_20.1_20_C_Fabrication de gaz industriels_Fabrication de gaz industriels_Fabrication de gaz industriels
+20.12Z_20.12_20.1_20_C_Fabrication de colorants et de pigments_Fabrication de colorants et de pigments_Fabrication de colorants et de pigments
+20.13A_20.13_20.1_20_C_Enrichissement et retraitement de matières nucléaires_Enrichissement et retraitement de matières nucléaires_Enrichissment & retrait. mat. nucléaire
+20.13B_20.13_20.1_20_C_Fabrication d'autres produits chimiques inorganiques de base n.c.a._Fabric. d'autres produits chimiques inorganiques de base n.c.a._Fab. aut. prod. chim. inorg. base n.c.a.
+20.14Z_20.14_20.1_20_C_Fabrication d'autres produits chimiques organiques de base_Fabrication d'autres produits chimiques organiques de base_Fab. aut. prod. chimique org. de base
+20.15Z_20.15_20.1_20_C_Fabrication de produits azotés et d'engrais_Fabrication de produits azotés et d'engrais_Fabric. de produits azotés et d'engrais
+20.16Z_20.16_20.1_20_C_Fabrication de matières plastiques de base_Fabrication de matières plastiques de base_Fabric. de matières plastiques de base
+20.17Z_20.17_20.1_20_C_Fabrication de caoutchouc synthétique_Fabrication de caoutchouc synthétique_Fabrication de caoutchouc synthétique
+20.20Z_20.20_20.2_20_C_Fabrication de pesticides et d'autres produits agrochimiques_Fabrication de pesticides et d’autres produits agrochimiques_Fab. pesticide & aut. prod. agrochimique
+20.30Z_20.30_20.3_20_C_Fabrication de peintures, vernis, encres et mastics_Fabrication de peintures, vernis, encres et mastics_Fab. de peinture, vernis, encre & mastic
+20.41Z_20.41_20.4_20_C_Fabrication de savons, détergents et produits d'entretien_Fabrication de savons, détergents et produits d'entretien_Fab. savon, détergent & prod. entretien
+20.42Z_20.42_20.4_20_C_Fabrication de parfums et de produits pour la toilette_Fabrication de parfums et de produits pour la toilette_Fab. parfum & produit pour la toilette
+20.51Z_20.51_20.5_20_C_Fabrication de produits explosifs_Fabrication de produits explosifs_Fabrication de produits explosifs
+20.52Z_20.52_20.5_20_C_Fabrication de colles_Fabrication de colles_Fabrication de colles
+20.53Z_20.53_20.5_20_C_Fabrication d'huiles essentielles_Fabrication d'huiles essentielles_Fabrication d'huiles essentielles
+20.59Z_20.59_20.5_20_C_Fabrication d'autres produits chimiques n.c.a._Fabrication d'autres produits chimiques n.c.a._Fabric. autres produits chimiques n.c.a.
+20.60Z_20.60_20.6_20_C_Fabrication de fibres artificielles ou synthétiques_Fabrication de fibres artificielles ou synthétiques_Fab. fibre artificielle ou synthétique
+21.10Z_21.10_21.1_21_C_Fabrication de produits pharmaceutiques de base_Fabrication de produits pharmaceutiques de base_Fab. de produits pharmaceutiques de base
+21.20Z_21.20_21.2_21_C_Fabrication de préparations pharmaceutiques_Fabrication de préparations pharmaceutiques_Fabric. de préparations pharmaceutiques
+22.11Z_22.11_22.1_22_C_Fabrication et rechapage de pneumatiques_Fabrication et rechapage de pneumatiques_Fabrication et rechapage de pneumatiques
+22.19Z_22.19_22.1_22_C_Fabrication d'autres articles en caoutchouc_Fabrication d'autres articles en caoutchouc_Fabric. d'autres articles en caoutchouc
+22.21Z_22.21_22.2_22_C_Fabrication de plaques, feuilles, tubes et profilés en matières plastiques_Fabrication plaques, feuilles, tubes et profilés en plastique_Fab. plaque, feuille, tube, etc. plast.
+22.22Z_22.22_22.2_22_C_Fabrication d'emballages en matières plastiques_Fabrication d'emballages en matières plastiques_Fab. d'emballage en matière plastique
+22.23Z_22.23_22.2_22_C_Fabrication d'éléments en matières plastiques pour la construction_Fabrication d'éléments matières plastiques pour la construction_Fab. élément mat. plastiq. pr construct.
+22.29A_22.29_22.2_22_C_Fabrication de pièces techniques à base de matières plastiques_Fabrication de pièces techniques à base de matières plastiques_Fab. pièce techniq. base mat. plastiq.
+22.29B_22.29_22.2_22_C_Fabrication de produits de consommation courante en matières plastiques_Fabrication produits de consommation courante en plastique_Fab. prod. conso. courante en plastique
+23.11Z_23.11_23.1_23_C_Fabrication de verre plat_Fabrication de verre plat_Fabrication de verre plat
+23.12Z_23.12_23.1_23_C_Façonnage et transformation du verre plat_Façonnage et transformation du verre plat_Façonnage & transformation du verre plat
+23.13Z_23.13_23.1_23_C_Fabrication de verre creux_Fabrication de verre creux_Fabrication de verre creux
+23.14Z_23.14_23.1_23_C_Fabrication de fibres de verre_Fabrication de fibres de verre_Fabrication de fibres de verre
+23.19Z_23.19_23.1_23_C_Fabrication et façonnage d'autres articles en verre, y compris verre technique_Fabrication & façonnage autres articles verre yc verre technique_Fab. & façonnage aut. article en verre
+23.20Z_23.20_23.2_23_C_Fabrication de produits réfractaires_Fabrication de produits réfractaires_Fabrication de produits réfractaires
+23.31Z_23.31_23.3_23_C_Fabrication de carreaux en céramique_Fabrication de carreaux en céramique_Fabrication de carreaux en céramique
+23.32Z_23.32_23.3_23_C_Fabrication de briques, tuiles et produits de construction, en terre cuite_Fabrication briques tuiles & prod. de construction en terre cuite_Fab. produit construct. en terre cuite
+23.41Z_23.41_23.4_23_C_Fabrication d'articles céramiques à usage domestique ou ornemental_Fabrication d'articles céramiques à usage domestique, ornemental_Fab. art. céramiq. usage domest. & déco.
+23.42Z_23.42_23.4_23_C_Fabrication d'appareils sanitaires en céramique_Fabrication d'appareils sanitaires en céramique_Fab. appareil sanitaire en céramique
+23.43Z_23.43_23.4_23_C_Fabrication d'isolateurs et pièces isolantes en céramique_Fabrication d'isolateurs et pièces isolantes en céramique_Fab. isolateur & pièce isolante céramiq.
+23.44Z_23.44_23.4_23_C_Fabrication d'autres produits céramiques à usage technique_Fabrication d'autres produits céramiques à usage technique_Fab. aut. prod. céram. à usage technique
+23.49Z_23.49_23.4_23_C_Fabrication d'autres produits céramiques_Fabrication d'autres produits céramiques_Fabrication d'autres produits céramiques
+23.51Z_23.51_23.5_23_C_Fabrication de ciment_Fabrication de ciment_Fabrication de ciment
+23.52Z_23.52_23.5_23_C_Fabrication de chaux et plâtre_Fabrication de chaux et plâtre_Fabrication de chaux et plâtre
+23.61Z_23.61_23.6_23_C_Fabrication d'éléments en béton pour la construction_Fabrication d'éléments en béton pour la construction_Fab. élément en béton pour la construct.
+23.62Z_23.62_23.6_23_C_Fabrication d'éléments en plâtre pour la construction_Fabrication d'éléments en plâtre pour la construction_Fab. élément en plâtre pour la construc.
+23.63Z_23.63_23.6_23_C_Fabrication de béton prêt à l'emploi_Fabrication de béton prêt à l'emploi_Fabrication de béton prêt à l'emploi
+23.64Z_23.64_23.6_23_C_Fabrication de mortiers et bétons secs_Fabrication de mortiers et bétons secs_Fabrication de mortiers et bétons secs
+23.65Z_23.65_23.6_23_C_Fabrication d'ouvrages en fibre-ciment_Fabrication d'ouvrages en fibre-ciment_Fabrication d'ouvrages en fibre-ciment
+23.69Z_23.69_23.6_23_C_Fabrication d'autres ouvrages en béton, en ciment ou en plâtre_Fabrication d'autres ouvrages en béton, en ciment ou en plâtre_Fab. aut. ouvrage béton, ciment, plâtre
+23.70Z_23.70_23.7_23_C_Taille, façonnage et finissage de pierres_Taille, façonnage et finissage de pierres_Taille, façonnage & finissage de pierres
+23.91Z_23.91_23.9_23_C_Fabrication de produits abrasifs_Fabrication de produits abrasifs_Fabrication de produits abrasifs
+23.99Z_23.99_23.9_23_C_Fabrication d'autres produits minéraux non métalliques n.c.a._Fabrication d'autres produits minéraux non métalliques n.c.a._Fab. aut. prod. minéraux non métal. nca.
+24.10Z_24.10_24.1_24_C_Sidérurgie_Sidérurgie_Sidérurgie
+24.20Z_24.20_24.2_24_C_Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier_Fabric. tubes, tuyaux, profilés creux & accessoir. corresp. acier_Fab. tube, profilé creux etc. en acier
+24.31Z_24.31_24.3_24_C_Étirage à froid de barres_Étirage à froid de barres_Étirage à froid de barres
+24.32Z_24.32_24.3_24_C_Laminage à froid de feuillards_Laminage à froid de feuillards_Laminage à froid de feuillards
+24.33Z_24.33_24.3_24_C_Profilage à froid par formage ou pliage_Profilage à froid par formage ou pliage_Profilage à froid par formage ou pliage
+24.34Z_24.34_24.3_24_C_Tréfilage à froid_Tréfilage à froid_Tréfilage à froid
+24.41Z_24.41_24.4_24_C_Production de métaux précieux_Production de métaux précieux_Production de métaux précieux
+24.42Z_24.42_24.4_24_C_Métallurgie de l'aluminium_Métallurgie de l'aluminium_Métallurgie de l'aluminium
+24.43Z_24.43_24.4_24_C_Métallurgie du plomb, du zinc ou de l'étain_Métallurgie du plomb, du zinc ou de l'étain_Métallurgie du Pb, du Zn ou du Sn
+24.44Z_24.44_24.4_24_C_Métallurgie du cuivre_Métallurgie du cuivre_Métallurgie du cuivre
+24.45Z_24.45_24.4_24_C_Métallurgie des autres métaux non ferreux_Métallurgie des autres métaux non ferreux_Métallurgie autres métaux non ferreux
+24.46Z_24.46_24.4_24_C_Élaboration et transformation de matières nucléaires_Élaboration et transformation de matières nucléaires_Élaboration et transform. mat. nucléaire
+24.51Z_24.51_24.5_24_C_Fonderie de fonte_Fonderie de fonte_Fonderie de fonte
+24.52Z_24.52_24.5_24_C_Fonderie d'acier_Fonderie d'acier_Fonderie d'acier
+24.53Z_24.53_24.5_24_C_Fonderie de métaux légers_Fonderie de métaux légers_Fonderie de métaux légers
+24.54Z_24.54_24.5_24_C_Fonderie d'autres métaux non ferreux_Fonderie d'autres métaux non ferreux_Fonderie d'autres métaux non ferreux
+25.11Z_25.11_25.1_25_C_Fabrication de structures métalliques et de parties de structures_Fabrication de structures métalliques et de parties de structures_Fab. structure métal. & partie structure
+25.12Z_25.12_25.1_25_C_Fabrication de portes et fenêtres en métal_Fabrication de portes et fenêtres en métal_Fabric. de portes et fenêtres en métal
+25.21Z_25.21_25.2_25_C_Fabrication de radiateurs et de chaudières pour le chauffage central_Fabrication radiateurs et chaudières pour le chauffage central_Fab. radiat. & chaudière pr chauf. ctral
+25.29Z_25.29_25.2_25_C_Fabrication d'autres réservoirs, citernes et conteneurs métalliques_Fabrication d'autres réservoirs, citernes, conteneurs métalliques_Fab. aut. réservr, citerne, etc. métal.
+25.30Z_25.30_25.3_25_C_Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central_Fabric. générateurs vapeur sf chaudières pour chauffage central_Fab. générat. vapeur sf pr chauff. ctral
+25.40Z_25.40_25.4_25_C_Fabrication d'armes et de munitions_Fabrication d'armes et de munitions_Fabrication d'armes et de munitions
+25.50A_25.50_25.5_25_C_Forge, estampage, matriçage ; métallurgie des poudres_Forge, estampage, matriçage; métallurgie des poudres_Forge; métallurgie des poudres
+25.50B_25.50_25.5_25_C_Découpage, emboutissage_Découpage, emboutissage_Découpage, emboutissage
+25.61Z_25.61_25.6_25_C_Traitement et revêtement des métaux_Traitement et revêtement des métaux_Traitement et revêtement des métaux
+25.62A_25.62_25.6_25_C_Décolletage_Décolletage_Décolletage
+25.62B_25.62_25.6_25_C_Mécanique industrielle_Mécanique industrielle_Mécanique industrielle
+25.71Z_25.71_25.7_25_C_Fabrication de coutellerie_Fabrication de coutellerie_Fabrication de coutellerie
+25.72Z_25.72_25.7_25_C_Fabrication de serrures et de ferrures_Fabrication de serrures et de ferrures_Fabrication de serrures et de ferrures
+25.73A_25.73_25.7_25_C_Fabrication de moules et modèles_Fabrication de moules et modèles_Fabrication de moules et modèles
+25.73B_25.73_25.7_25_C_Fabrication d'autres outillages_Fabrication d'autres outillages_Fabrication d'autres outillages
+25.91Z_25.91_25.9_25_C_Fabrication de fûts et emballages métalliques similaires_Fabrication de fûts et emballages métalliques similaires_Fab. fût & emballage métalliq. similaire
+25.92Z_25.92_25.9_25_C_Fabrication d'emballages métalliques légers_Fabrication d'emballages métalliques légers_Fabric. d'emballages métalliques légers
+25.93Z_25.93_25.9_25_C_Fabrication d'articles en fils métalliques, de chaînes et de ressorts_Fabrication d'articles en fils métalliques, chaînes et ressorts_Fab. art. fil métal., chaîne & ressort
+25.94Z_25.94_25.9_25_C_Fabrication de vis et de boulons_Fabrication de vis et de boulons_Fabrication de vis et de boulons
+25.99A_25.99_25.9_25_C_Fabrication d'articles métalliques ménagers_Fabrication d'articles métalliques ménagers_Fabric. d'articles métalliques ménagers
+25.99B_25.99_25.9_25_C_Fabrication d'autres articles métalliques_Fabrication d'autres articles métalliques_Fabric. d'autres articles métalliques
+26.11Z_26.11_26.1_26_C_Fabrication de composants électroniques_Fabrication de composants électroniques_Fabrication de composants électroniques
+26.12Z_26.12_26.1_26_C_Fabrication de cartes électroniques assemblées_Fabrication de cartes électroniques assemblées_Fab. de cartes électroniques assemblées
+26.20Z_26.20_26.2_26_C_Fabrication d'ordinateurs et d'équipements périphériques_Fabrication d'ordinateurs et d'équipements périphériques_Fab. ordinateur & équipement périphériq.
+26.30Z_26.30_26.3_26_C_Fabrication d'équipements de communication_Fabrication d'équipements de communication_Fabric. d'équipements de communication
+26.40Z_26.40_26.4_26_C_Fabrication de produits électroniques grand public_Fabrication de produits électroniques grand public_Fab. produit électronique grand public
+26.51A_26.51_26.5_26_C_Fabrication d'équipements d'aide à la navigation_Fabrication d'équipements d'aide à la navigation_Fab. équipement d'aide à la navigation
+26.51B_26.51_26.5_26_C_Fabrication d'instrumentation scientifique et technique_Fabrication d'instrumentation scientifique et technique_Fab. instrumentation scientifiq. & tech.
+26.52Z_26.52_26.5_26_C_Horlogerie_Horlogerie_Horlogerie
+26.60Z_26.60_26.6_26_C_Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques_Fab. éqpts d'irradiation médic. électromédic. & électrothérapeut._Fab. éqpt irrad. médic. & électromedic.
+26.70Z_26.70_26.7_26_C_Fabrication de matériels optique et photographique_Fabrication de matériels optique et photographique_Fab. matériel optique et photographique
+26.80Z_26.80_26.8_26_C_Fabrication de supports magnétiques et optiques_Fabrication de supports magnétiques et optiques_Fab. de supports magnétiques et optiques
+27.11Z_27.11_27.1_27_C_Fabrication de moteurs, génératrices et transformateurs électriques_Fabrication de moteurs, génératrices, transformateurs électriques_Fab. moteur génér. transfo. & mat. élec.
+27.12Z_27.12_27.1_27_C_Fabrication de matériel de distribution et de commande électrique_Fabrication de matériel de distribution et de commande électrique_Fab. mat. de distrib. & de cde électri.
+27.20Z_27.20_27.2_27_C_Fabrication de piles et d'accumulateurs électriques_Fabrication de piles et d'accumulateurs électriques_Fabric. pile & accumulateur électrique
+27.31Z_27.31_27.3_27_C_Fabrication de câbles de fibres optiques_Fabrication de câbles de fibres optiques_Fabrication de câbles de fibres optiques
+27.32Z_27.32_27.3_27_C_Fabrication d'autres fils et câbles électroniques ou électriques_Fabrication d'autres fils et câbles électroniques ou électriques_Fab. aut. fil & câble éltron. ou éltriq.
+27.33Z_27.33_27.3_27_C_Fabrication de matériel d'installation électrique_Fabrication de matériel d'installation électrique_Fabric. matériel installation électrique
+27.40Z_27.40_27.4_27_C_Fabrication d'appareils d'éclairage électrique_Fabrication d'appareils d'éclairage électrique_Fabric. appareils d'éclairage électrique
+27.51Z_27.51_27.5_27_C_Fabrication d'appareils électroménagers_Fabrication d'appareils électroménagers_Fabrication d'appareils électroménagers
+27.52Z_27.52_27.5_27_C_Fabrication d'appareils ménagers non électriques_Fabrication d'appareils ménagers non électriques_Fab. appareils ménagers non électriques
+27.90Z_27.90_27.9_27_C_Fabrication d'autres matériels électriques_Fabrication d'autres matériels électriques_Fabric. d'autres matériels électriques
+28.11Z_28.11_28.1_28_C_Fabrication de moteurs et turbines, à l'exception des moteurs d'avions et de véhicules_Fabrication moteurs & turbines sf moteurs d'avions & de véhicules_Fab. moteur & turb. sf pr avion & véhic.
+28.12Z_28.12_28.1_28_C_Fabrication d'équipements hydrauliques et pneumatiques_Fabrication d'équipements hydrauliques et pneumatiques_Fab. équipement hydraulique & pneumatiq.
+28.13Z_28.13_28.1_28_C_Fabrication d'autres pompes et compresseurs_Fabrication d'autres pompes et compresseurs_Fabric. d'autres pompes et compresseurs
+28.14Z_28.14_28.1_28_C_Fabrication d'autres articles de robinetterie_Fabrication d'autres articles de robinetterie_Fabric. autres articles de robinetterie
+28.15Z_28.15_28.1_28_C_Fabrication d'engrenages et d'organes mécaniques de transmission_Fabrication d'engrenages et d'organes mécaniques de transmission_Fab. engrenage & organe méca. transmis.
+28.21Z_28.21_28.2_28_C_Fabrication de fours et brûleurs_Fabrication de fours et brûleurs_Fabrication de fours et brûleurs
+28.22Z_28.22_28.2_28_C_Fabrication de matériel de levage et de manutention_Fabrication de matériel de levage et de manutention_Fab. matériel de levage & de manutention
+28.23Z_28.23_28.2_28_C_Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques)_Fab. machines équipts bureau (sf ordinateurs & équipts périph.)_Fab. machine équipt bureau (sf ordinat.)
+28.24Z_28.24_28.2_28_C_Fabrication d'outillage portatif à moteur incorporé_Fabrication d'outillage portatif à moteur incorporé_Fab. outillage portatif à moteur incorp.
+28.25Z_28.25_28.2_28_C_Fabrication d'équipements aérauliques et frigorifiques industriels_Fabrication équipements aérauliques et frigorifiques industriels_Fab. équipt aérauliq. & frigorifiq. ind.
+28.29A_28.29_28.2_28_C_Fabrication d'équipements d'emballage, de conditionnement et de pesage_Fabrication équipts emballage, conditionnement & pesage_Fab. éqpt emballage condition. & pesage
+28.29B_28.29_28.2_28_C_Fabrication d'autres machines d'usage général_Fabrication d'autres machines d'usage général_Fab. d'autres machines d'usage général
+28.30Z_28.30_28.3_28_C_Fabrication de machines agricoles et forestières_Fabrication de machines agricoles et forestières_Fab. machines agricoles et forestières
+28.41Z_28.41_28.4_28_C_Fabrication de machines-outils pour le travail des métaux_Fabrication de machines-outils pour le travail des métaux_Fab. de machines de formage des métaux
+28.49Z_28.49_28.4_28_C_Fabrication d'autres machines-outils_Fabrication d'autres machines-outils_Fabrication d'autres machines-outils
+28.91Z_28.91_28.9_28_C_Fabrication de machines pour la métallurgie_Fabrication de machines pour la métallurgie_Fabric. de machines pour la métallurgie
+28.92Z_28.92_28.9_28_C_Fabrication de machines pour l'extraction ou la construction_Fabrication de machines pour l'extraction ou la construction_Fab. machine pour extraction ou constr.
+28.93Z_28.93_28.9_28_C_Fabrication de machines pour l'industrie agro-alimentaire_Fabrication de machines pour l'industrie agro-alimentaire_Fab. machine pour l'indus. agro-aliment.
+28.94Z_28.94_28.9_28_C_Fabrication de machines pour les industries textiles_Fabrication de machines pour les industries textiles_Fab. machine pour industries textiles
+28.95Z_28.95_28.9_28_C_Fabrication de machines pour les industries du papier et du carton_Fabrication de machines pour les industries du papier et carton_Fab. machine pr indus. papier & carton
+28.96Z_28.96_28.9_28_C_Fabrication de machines pour le travail du caoutchouc ou des plastiques_Fabric. machines pour le travail du caoutchouc ou des plastiques_Fab. machine pr trav. du caoutch, plast.
+28.99A_28.99_28.9_28_C_Fabrication de machines d'imprimerie_Fabrication de machines d'imprimerie_Fabrication de machines d'imprimerie
+28.99B_28.99_28.9_28_C_Fabrication d'autres machines spécialisées_Fabrication d'autres machines spécialisées_Fabric. d'autres machines spécialisées
+29.10Z_29.10_29.1_29_C_Construction de véhicules automobiles_Construction de véhicules automobiles_Construction de véhicules automobiles
+29.20Z_29.20_29.2_29_C_Fabrication de carrosseries et remorques_Fabrication de carrosseries et remorques_Fabrication de carrosseries et remorques
+29.31Z_29.31_29.3_29_C_Fabrication d'équipements électriques et électroniques automobiles_Fabrication équipements électriques et électroniques automobiles_Fab. équipt électriq. & électron. auto.
+29.32Z_29.32_29.3_29_C_Fabrication d'autres équipements automobiles_Fabrication d'autres équipements automobiles_Fabric. d'autres équipements automobiles
+30.11Z_30.11_30.1_30_C_Construction de navires et de structures flottantes_Construction de navires et de structures flottantes_Construct. navires & structure flottante
+30.12Z_30.12_30.1_30_C_Construction de bateaux de plaisance_Construction de bateaux de plaisance_Construction de bateaux de plaisance
+30.20Z_30.20_30.2_30_C_Construction de locomotives et d'autre matériel ferroviaire roulant_Construction locomotives & autre matériel ferroviaire roulant_Const. loco. & autre mat. ferro. roulant
+30.30Z_30.30_30.3_30_C_Construction aéronautique et spatiale_Construction aéronautique et spatiale_Construction aéronautique et spatiale
+30.40Z_30.40_30.4_30_C_Construction de véhicules militaires de combat_Construction de véhicules militaires de combat_Constr. véhicules militaires de combat
+30.91Z_30.91_30.9_30_C_Fabrication de motocycles_Fabrication de motocycles_Fabrication de motocycles
+30.92Z_30.92_30.9_30_C_Fabrication de bicyclettes et de véhicules pour invalides_Fabrication de bicyclettes et de véhicules pour invalides_Fab. bicyclette & véhic. pour invalides
+30.99Z_30.99_30.9_30_C_Fabrication d'autres équipements de transport n.c.a._Fabrication d’autres équipements de transport n.c.a._Fab. aut. équipement de transport n.c.a.
+31.01Z_31.01_31.0_31_C_Fabrication de meubles de bureau et de magasin_Fabrication de meubles de bureau et de magasin_Fab. de meubles de bureau et de magasin
+31.02Z_31.02_31.0_31_C_Fabrication de meubles de cuisine_Fabrication de meubles de cuisine_Fabrication de meubles de cuisine
+31.03Z_31.03_31.0_31_C_Fabrication de matelas_Fabrication de matelas_Fabrication de matelas
+31.09A_31.09_31.0_31_C_Fabrication de sièges d'ameublement d'intérieur_Fabrication de sièges d'ameublement d'intérieur_Fabric. sièges d'ameublement d'intérieur
+31.09B_31.09_31.0_31_C_Fabrication d'autres meubles et industries connexes de l'ameublement_Fabrication autres meubles & industries connexes de l'ameublement_Fab. aut. meub. & ind. connexe ameublmnt
+32.11Z_32.11_32.1_32_C_Frappe de monnaie_Frappe de monnaie_Frappe de monnaie
+32.12Z_32.12_32.1_32_C_Fabrication d'articles de joaillerie et bijouterie_Fabrication d’articles de joaillerie et bijouterie_Fab. article de joaillerie et bijouterie
+32.13Z_32.13_32.1_32_C_Fabrication d'articles de bijouterie fantaisie et articles similaires_Fabrication articles bijouterie fantaisie & articles similaires_Fab. art. bijout. fantaisie & similaire
+32.20Z_32.20_32.2_32_C_Fabrication d'instruments de musique_Fabrication d'instruments de musique_Fabrication d'instruments de musique
+32.30Z_32.30_32.3_32_C_Fabrication d'articles de sport_Fabrication d'articles de sport_Fabrication d'articles de sport
+32.40Z_32.40_32.4_32_C_Fabrication de jeux et jouets_Fabrication de jeux et jouets_Fabrication de jeux et jouets
+32.50A_32.50_32.5_32_C_Fabrication de matériel médico-chirurgical et dentaire_Fabrication de matériel médico-chirurgical et dentaire_Fab. matériel médico-chirurg. & dentaire
+32.50B_32.50_32.5_32_C_Fabrication de lunettes_Fabrication de lunettes_Fabrication de lunettes
+32.91Z_32.91_32.9_32_C_Fabrication d'articles de brosserie_Fabrication d’articles de brosserie_Fabrication d’articles de brosserie
+32.99Z_32.99_32.9_32_C_Autres activités manufacturières n.c.a._Autres activités manufacturières n.c.a._Autres activités manufacturières n.c.a.
+33.11Z_33.11_33.1_33_C_Réparation d'ouvrages en métaux_Réparation d'ouvrages en métaux_Réparation d'ouvrages en métaux
+33.12Z_33.12_33.1_33_C_Réparation de machines et équipements mécaniques_Réparation de machines et équipements mécaniques_Répar. machine & équipement mécaniques
+33.13Z_33.13_33.1_33_C_Réparation de matériels électroniques et optiques_Réparation de matériels électroniques et optiques_Répar. matériel électronique & optique
+33.14Z_33.14_33.1_33_C_Réparation d'équipements électriques_Réparation d'équipements électriques_Réparation d'équipements électriques
+33.15Z_33.15_33.1_33_C_Réparation et maintenance navale_Réparation et maintenance navale_Réparation et maintenance navale
+33.16Z_33.16_33.1_33_C_Réparation et maintenance d'aéronefs et d'engins spatiaux_Réparation et maintenance d'aéronefs et d'engins spatiaux_Répar. & maint. aéronef & eng. spatiaux
+33.17Z_33.17_33.1_33_C_Réparation et maintenance d'autres équipements de transport_Réparation et maintenance d'autres équipements de transport_Répar. & maint. d'aut. équipt transport
+33.19Z_33.19_33.1_33_C_Réparation d'autres équipements_Réparation d'autres équipements_Réparation d'autres équipements
+33.20A_33.20_33.2_33_C_Installation de structures métalliques, chaudronnées et de tuyauterie_Installation structures métalliques, chaudronnées et tuyauterie_Instal. struct. métal., chaudr. & tuyau.
+33.20B_33.20_33.2_33_C_Installation de machines et équipements mécaniques_Installation de machines et équipements mécaniques_Instal. machines & équipement mécanique
+33.20C_33.20_33.2_33_C_Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels_Concept. d'ens. & assembl s/site d'éqpts ctrle des processus ind._Instal. éqpts ctrle des processus indus.
+33.20D_33.20_33.2_33_C_Installation d'équipements électriques, de matériels électroniques et optiques ou d'autres matériels_Instal. éqpts électriq, mat. électro. et optiq. ou aut. matériels_Inst. éqpt élec. électro. optiq. ou aut.
+35.11Z_35.11_35.1_35_D_Production d'électricité_Production d'électricité_Production d'électricité
+35.12Z_35.12_35.1_35_D_Transport d'électricité_Transport d'électricité_Transport d'électricité
+35.13Z_35.13_35.1_35_D_Distribution d'électricité_Distribution d'électricité_Distribution d'électricité
+35.14Z_35.14_35.1_35_D_Commerce d'électricité_Commerce d'électricité_Commerce d'électricité
+35.21Z_35.21_35.2_35_D_Production de combustibles gazeux_Production de combustibles gazeux_Production de combustibles gazeux
+35.22Z_35.22_35.2_35_D_Distribution de combustibles gazeux par conduites_Distribution de combustibles gazeux par conduites_Distrib. combustible gazeux pr conduites
+35.23Z_35.23_35.2_35_D_Commerce de combustibles gazeux par conduites_Commerce de combustibles gazeux par conduites_Commerce combustible gazeux par conduite
+35.30Z_35.30_35.3_35_D_Production et distribution de vapeur et d'air conditionné_Production et distribution de vapeur et d'air conditionné_Prod. & distrib. vapeur et air condit.
+36.00Z_36.00_36.0_36_E_Captage, traitement et distribution d'eau_Captage, traitement et distribution d'eau_Captage, traitement & distribution d'eau
+37.00Z_37.00_37.0_37_E_Collecte et traitement des eaux usées_Collecte et traitement des eaux usées_Collecte et traitement des eaux usées
+38.11Z_38.11_38.1_38_E_Collecte des déchets non dangereux_Collecte des déchets non dangereux_Collecte des déchets non dangereux
+38.12Z_38.12_38.1_38_E_Collecte des déchets dangereux_Collecte des déchets dangereux_Collecte des déchets dangereux
+38.21Z_38.21_38.2_38_E_Traitement et élimination des déchets non dangereux_Traitement et élimination des déchets non dangereux_Traitmnt & élimin. déchets non dangereux
+38.22Z_38.22_38.2_38_E_Traitement et élimination des déchets dangereux_Traitement et élimination des déchets dangereux_Traitmnt & élimination déchets dangereux
+38.31Z_38.31_38.3_38_E_Démantèlement d'épaves_Démantèlement d'épaves_Démantèlement d'épaves
+38.32Z_38.32_38.3_38_E_Récupération de déchets triés_Récupération de déchets triés_Récupération de déchets triés
+39.00Z_39.00_39.0_39_E_Dépollution et autres services de gestion des déchets_Dépollution et autres services de gestion des déchets_Dépollution & autre sces gestion déchets
+41.10A_41.10_41.1_41_F_Promotion immobilière de logements_Promotion immobilière de logements_Promotion immobilière de logements
+41.10B_41.10_41.1_41_F_Promotion immobilière de bureaux_Promotion immobilière de bureaux_Promotion immobilière de bureaux
+41.10C_41.10_41.1_41_F_Promotion immobilière d'autres bâtiments_Promotion immobilière d'autres bâtiments_Promotion immobilière d'autres bâtiments
+41.10D_41.10_41.1_41_F_Supports juridiques de programmes_Supports juridiques de programmes_Supports juridiques de programmes
+41.20A_41.20_41.2_41_F_Construction de maisons individuelles_Construction de maisons individuelles_Construction de maisons individuelles
+41.20B_41.20_41.2_41_F_Construction d'autres bâtiments_Construction d'autres bâtiments_Construction d'autres bâtiments
+42.11Z_42.11_42.1_42_F_Construction de routes et autoroutes_Construction de routes et autoroutes_Construction de routes et autoroutes
+42.12Z_42.12_42.1_42_F_Construction de voies ferrées de surface et souterraines_Construction de voies ferrées de surface et souterraines_Const. voie ferrée surface & souterraine
+42.13A_42.13_42.1_42_F_Construction d'ouvrages d'art_Construction d'ouvrages d'art_Construction d'ouvrages d'art
+42.13B_42.13_42.1_42_F_Construction et entretien de tunnels_Construction et entretien de tunnels_Construction et entretien de tunnels
+42.21Z_42.21_42.2_42_F_Construction de réseaux pour fluides_Construction de réseaux pour fluides_Construction de réseaux pour fluides
+42.22Z_42.22_42.2_42_F_Construction de réseaux électriques et de télécommunications_Construction de réseaux électriques et de télécommunications_Const. réseaux électriq. & de télécom.
+42.91Z_42.91_42.9_42_F_Construction d'ouvrages maritimes et fluviaux_Construction d'ouvrages maritimes et fluviaux_Construc. ouvrages maritimes et fluviaux
+42.99Z_42.99_42.9_42_F_Construction d'autres ouvrages de génie civil n.c.a._Construction d'autres ouvrages de génie civil n.c.a._Constr. aut. ouvrage de génie civil nca.
+43.11Z_43.11_43.1_43_F_Travaux de démolition_Travaux de démolition_Travaux de démolition
+43.12A_43.12_43.1_43_F_Travaux de terrassement courants et travaux préparatoires_Travaux de terrassement courants et travaux préparatoires_Travaux de terrassement courants
+43.12B_43.12_43.1_43_F_Travaux de terrassement spécialisés ou de grande masse_Travaux de terrassement spécialisés ou de grande masse_Travaux de terrassement spécialisés
+43.13Z_43.13_43.1_43_F_Forages et sondages_Forages et sondages_Forages et sondages
+43.21A_43.21_43.2_43_F_Travaux d'installation électrique dans tous locaux_Travaux d'installation électrique dans tous locaux_Travaux instal. électriq. ds tous locaux
+43.21B_43.21_43.2_43_F_Travaux d'installation électrique sur la voie publique_Travaux d'installation électrique sur la voie publique_Travaux instal. électriq. sr voie publi.
+43.22A_43.22_43.2_43_F_Travaux d'installation d'eau et de gaz en tous locaux_Travaux d'installation d'eau et de gaz en tous locaux_Travaux instal. eau & gaz en tous locaux
+43.22B_43.22_43.2_43_F_Travaux d'installation d'équipements thermiques et de climatisation_Travaux d'installation équipements thermiques et climatisation_Travaux instal. équipt thermique & clim.
+43.29A_43.29_43.2_43_F_Travaux d'isolation_Travaux d'isolation_Travaux d'isolation
+43.29B_43.29_43.2_43_F_Autres travaux d'installation n.c.a._Autres travaux d'installation n.c.a._Autres travaux d'installation n.c.a.
+43.31Z_43.31_43.3_43_F_Travaux de plâtrerie_Travaux de plâtrerie_Travaux de plâtrerie
+43.32A_43.32_43.3_43_F_Travaux de menuiserie bois et PVC_Travaux de menuiserie bois et PVC_Travaux de menuiserie bois et PVC
+43.32B_43.32_43.3_43_F_Travaux de menuiserie métallique et serrurerie_Travaux de menuiserie métallique et serrurerie_Travaux menuiserie métal. & serrurerie
+43.32C_43.32_43.3_43_F_Agencement de lieux de vente_Agencement de lieux de vente_Agencement de lieux de vente
+43.33Z_43.33_43.3_43_F_Travaux de revêtement des sols et des murs_Travaux de revêtement des sols et des murs_Travaux revêtement des sols et des murs
+43.34Z_43.34_43.3_43_F_Travaux de peinture et vitrerie_Travaux de peinture et vitrerie_Travaux de peinture et vitrerie
+43.39Z_43.39_43.3_43_F_Autres travaux de finition_Autres travaux de finition_Autres travaux de finition
+43.91A_43.91_43.9_43_F_Travaux de charpente_Travaux de charpente_Travaux de charpente
+43.91B_43.91_43.9_43_F_Travaux de couverture par éléments_Travaux de couverture par éléments_Travaux de couverture par éléments
+43.99A_43.99_43.9_43_F_Travaux d'étanchéification_Travaux d'étanchéification_Travaux d'étanchéification
+43.99B_43.99_43.9_43_F_Travaux de montage de structures métalliques_Travaux de montage de structures métalliques_Travaux montage de structure métallique
+43.99C_43.99_43.9_43_F_Travaux de maçonnerie générale et gros œuvre de bâtiment_Travaux de maçonnerie générale et gros oeuvre de bâtiment_Trav. maçon. gle & gros oeuvre bâtiment
+43.99D_43.99_43.9_43_F_Autres travaux spécialisés de construction_Autres travaux spécialisés de construction_Aut. travaux spécialisés de construction
+43.99E_43.99_43.9_43_F_Location avec opérateur de matériel de construction_Location avec opérateur de matériel de construction_Location avec opérateur mat. de constr.
+45.11Z_45.11_45.1_45_G_Commerce de voitures et de véhicules automobiles légers_Commerce de voitures et de véhicules automobiles légers_Comm. de voiture & véhicule auto. léger
+45.19Z_45.19_45.1_45_G_Commerce d'autres véhicules automobiles_Commerce d'autres véhicules automobiles_Commerce d'autres véhicules automobiles
+45.20A_45.20_45.2_45_G_Entretien et réparation de véhicules automobiles légers_Entretien et réparation de véhicules automobiles légers_Entretien & répar. véhicule auto. léger
+45.20B_45.20_45.2_45_G_Entretien et réparation d'autres véhicules automobiles_Entretien et réparation d'autres véhicules automobiles_Entretien & répar. autre véhicule auto.
+45.31Z_45.31_45.3_45_G_Commerce de gros d'équipements automobiles_Commerce de gros d'équipements automobiles_Commerce de gros d'équipement automobile
+45.32Z_45.32_45.3_45_G_Commerce de détail d'équipements automobiles_Commerce de détail d'équipements automobiles_Commerce de détail équipement automobile
+45.40Z_45.40_45.4_45_G_Commerce et réparation de motocycles_Commerce et réparation de motocycles_Commerce et réparation de motocycles
+46.11Z_46.11_46.1_46_G_Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis_Interm. du comm. en m.p. agricoles & textiles, animaux vivants_Interm. du comm. en produits agricoles
+46.12A_46.12_46.1_46_G_Centrales d'achat de carburant_Centrales d'achat de carburant_Centrales d'achat de carburant
+46.12B_46.12_46.1_46_G_Autres intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques_Autres interm. comm. combustibles métaux minéraux prod. chimiques_Aut. ic comb. mét. minér. & prod. chim.
+46.13Z_46.13_46.1_46_G_Intermédiaires du commerce en bois et matériaux de construction_Intermédiaires du commerce en bois et matériaux de construction_Interm. comm. bois & matériaux construc.
+46.14Z_46.14_46.1_46_G_Intermédiaires du commerce en machines, équipements industriels, navires et avions_Interm. comm. machines, équipts industriels, navires et avions_Int. comm. équipt indus., navire & avion
+46.15Z_46.15_46.1_46_G_Intermédiaires du commerce en meubles, articles de ménage et quincaillerie_Interm. comm. en meubles, articles de ménage et quincaillerie_Int. comm. meuble, art. ménage & quinc.
+46.16Z_46.16_46.1_46_G_Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir_Interm. comm. textiles, habillt, fourrures, chaussures & art cuir_Int. comm. textile, habillt & assimil.
+46.17A_46.17_46.1_46_G_Centrales d'achat alimentaires_Centrales d'achat alimentaires_Centrales d'achat alimentaires
+46.17B_46.17_46.1_46_G_Autres intermédiaires du commerce en denrées, boissons et tabac_Autres intermédiaires du commerce en denrées, boissons et tabac_Autre ic en denrées, boissons et tabac
+46.18Z_46.18_46.1_46_G_Intermédiaires spécialisés dans le commerce d'autres produits spécifiques_Interm. spécialisés commerce d'autres produits spécifiques_Int. spécialis. comm. aut. prod. spécif.
+46.19A_46.19_46.1_46_G_Centrales d'achat non alimentaires_Centrales d'achat non alimentaires_Centrales d'achat non alimentaires
+46.19B_46.19_46.1_46_G_Autres intermédiaires du commerce en produits divers_Autres intermédiaires du commerce en produits divers_Autre interm. commerce en prodts divers
+46.21Z_46.21_46.2_46_G_Commerce de gros (commerce interentreprises) de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail_Comm. de gros céréales, tabac non manuf. et aliments pour bétail_Com gros céréal. tab. brt & alim. bétail
+46.22Z_46.22_46.2_46_G_Commerce de gros (commerce interentreprises) de fleurs et plantes_Commerce de gros (commerce interentreprises) de fleurs et plantes_Commerce de gros de fleurs et plantes
+46.23Z_46.23_46.2_46_G_Commerce de gros (commerce interentreprises) d'animaux vivants_Commerce de gros (commerce interentreprises) d'animaux vivants_Commerce de gros d'animaux vivants
+46.24Z_46.24_46.2_46_G_Commerce de gros (commerce interentreprises) de cuirs et peaux_Commerce de gros (commerce interentreprises) de cuirs et peaux_Commerce de gros de cuirs et peaux
+46.31Z_46.31_46.3_46_G_Commerce de gros (commerce interentreprises) de fruits et légumes_Commerce de gros (commerce interentreprises) de fruits et légumes_Commerce de gros de fruits et légumes
+46.32A_46.32_46.3_46_G_Commerce de gros (commerce interentreprises) de viandes de boucherie_Commerce de gros de viandes de boucherie_Commerce de gros de viandes de boucherie
+46.32B_46.32_46.3_46_G_Commerce de gros (commerce interentreprises) de produits à base de viande_Commerce de gros de produits à base de viande_Comm. gros de produits à base de viande
+46.32C_46.32_46.3_46_G_Commerce de gros (commerce interentreprises) de volailles et gibier_Commerce de gros de volailles et gibier_Commerce de gros de volailles et gibier
+46.33Z_46.33_46.3_46_G_Commerce de gros (commerce interentreprises) de produits laitiers, œufs, huiles et matières grasses comestibles_Com. gros produits laitiers, oeufs, huiles & mat. grasses comest._Com. gros prod. laitier oeuf & mat. grse
+46.34Z_46.34_46.3_46_G_Commerce de gros (commerce interentreprises) de boissons_Commerce de gros (commerce interentreprises) de boissons_Commerce de gros de boissons
+46.35Z_46.35_46.3_46_G_Commerce de gros (commerce interentreprises) de produits à base de tabac_Commerce de gros de produits à base de tabac_Comm. gros de produits à base de tabac
+46.36Z_46.36_46.3_46_G_Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie_Commerce de gros de sucre, chocolat et confiserie_Com. gros de sucre chocolat & confiserie
+46.37Z_46.37_46.3_46_G_Commerce de gros (commerce interentreprises) de café, thé, cacao et épices_Commerce de gros de café, thé, cacao et épices_Comm. gros de café, thé, cacao et épices
+46.38A_46.38_46.3_46_G_Commerce de gros (commerce interentreprises) de poissons, crustacés et mollusques_Commerce de gros de poissons, crustacés et mollusques_Com. gros aut. alim. yc poisson crustacé
+46.38B_46.38_46.3_46_G_Commerce de gros (commerce interentreprises) alimentaire spécialisé divers_Commerce de gros alimentaire spécialisé divers_Comm. gros alimentaire spécialisé divers
+46.39A_46.39_46.3_46_G_Commerce de gros (commerce interentreprises) de produits surgelés_Commerce de gros (commerce interentreprises) de produits surgelés_Commerce de gros de produits surgelés
+46.39B_46.39_46.3_46_G_Commerce de gros (commerce interentreprises) alimentaire non spécialisé_Commerce de gros alimentaire non spécialisé_Comm de gros alimentaire non spécialisé
+46.41Z_46.41_46.4_46_G_Commerce de gros (commerce interentreprises) de textiles_Commerce de gros (commerce interentreprises) de textiles_Commerce de gros de textiles
+46.42Z_46.42_46.4_46_G_Commerce de gros (commerce interentreprises) d'habillement et de chaussures_Commerce de gros d'habillement et de chaussures_Commerce gros d'habillement & chaussures
+46.43Z_46.43_46.4_46_G_Commerce de gros (commerce interentreprises) d'appareils électroménagers_Commerce de gros d'appareils électroménagers_Commerce de gros appareil électroménager
+46.44Z_46.44_46.4_46_G_Commerce de gros (commerce interentreprises) de vaisselle, verrerie et produits d'entretien_Commerce de gros de vaisselle, verrerie et produits d'entretien_Com. gros vaisselle verrerie prod. entr.
+46.45Z_46.45_46.4_46_G_Commerce de gros (commerce interentreprises) de parfumerie et de produits de beauté_Commerce de gros de parfumerie et de produits de beauté_Com. gros parfumerie & produit de beauté
+46.46Z_46.46_46.4_46_G_Commerce de gros (commerce interentreprises) de produits pharmaceutiques_Commerce de gros de produits pharmaceutiques_Comm. gros de produits pharmaceutiques
+46.47Z_46.47_46.4_46_G_Commerce de gros (commerce interentreprises) de meubles, de tapis et d'appareils d'éclairage_Commerce de gros de meubles, de tapis et d'appareils d'éclairage_Com. gros meuble tapis appareil éclaira.
+46.48Z_46.48_46.4_46_G_Commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie_Commerce de gros d'articles d'horlogerie et de bijouterie_Com. gros artic. horlogerie & bijouterie
+46.49Z_46.49_46.4_46_G_Commerce de gros (commerce interentreprises) d'autres biens domestiques_Commerce de gros d'autres biens domestiques_Commerce gros d'autres biens domestiques
+46.51Z_46.51_46.5_46_G_Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels_Comm. de gros d'ordinat., d'éqpts informatiq. périph. & logiciels_Comm. gros ordi. éqpt périph. & logiciel
+46.52Z_46.52_46.5_46_G_Commerce de gros (commerce interentreprises) de composants et d'équipements électroniques et de télécommunication_Comm. de gros d'éqpts et composants électroniques et de télécomm._Cg éqpt & composant électron. & télécom.
+46.61Z_46.61_46.6_46_G_Commerce de gros (commerce interentreprises) de matériel agricole_Commerce de gros (commerce interentreprises) de matériel agricole_Commerce de gros de matériel agricole
+46.62Z_46.62_46.6_46_G_Commerce de gros (commerce interentreprises) de machines-outils_Commerce de gros (commerce interentreprises) de machines-outils_Commerce de gros de machines-outils
+46.63Z_46.63_46.6_46_G_Commerce de gros (commerce interentreprises) de machines pour l'extraction, la construction et le génie civil_Comm de gros de machines pour l'extrac, la constr, le génie civil_Com. gros machine pr extrac., constr. GC
+46.64Z_46.64_46.6_46_G_Commerce de gros (commerce interentreprises) de machines pour l'industrie textile et l'habillement_Comm. gros (interentr.) machines pour industrie textile & habill._Com. gros machine pr ind. text. & habil.
+46.65Z_46.65_46.6_46_G_Commerce de gros (commerce interentreprises) de mobilier de bureau_Commerce de gros de mobilier de bureau_Commerce de gros de mobilier de bureau
+46.66Z_46.66_46.6_46_G_Commerce de gros (commerce interentreprises) d'autres machines et équipements de bureau_Commerce de gros d'autres machines et équipements de bureau_Com. gros autre machine & équipt bureau
+46.69A_46.69_46.6_46_G_Commerce de gros (commerce interentreprises) de matériel électrique_Commerce de gros de matériel électrique_Commerce de gros de matériel électrique
+46.69B_46.69_46.6_46_G_Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers_Commerce de gros de fournitures et équipements industriels divers_Com. gros fourniture & équipt ind. div.
+46.69C_46.69_46.6_46_G_Commerce de gros (commerce interentreprises) de fournitures et équipements divers pour le commerce et les services_Comm. gros de fournitures & équipts divers pour commerces & sces_Cg fournit. & équipt div. pr com. & sces
+46.71Z_46.71_46.7_46_G_Commerce de gros (commerce interentreprises) de combustibles et de produits annexes_Commerce de gros de combustibles et de produits annexes_Com. gros combustible & produits annexes
+46.72Z_46.72_46.7_46_G_Commerce de gros (commerce interentreprises) de minerais et métaux_Commerce de gros de minerais et métaux_Commerce de gros de minerais et métaux
+46.73A_46.73_46.7_46_G_Commerce de gros (commerce interentreprises) de bois et de matériaux de construction_Commerce de gros de bois et de matériaux de construction_Com. gros bois & matériaux construction
+46.73B_46.73_46.7_46_G_Commerce de gros (commerce interentreprises) d'appareils sanitaires et de produits de décoration_Commerce de gros d'appareils sanitaires et produits de décoration_Cg appareil sanitaire & prod. décoration
+46.74A_46.74_46.7_46_G_Commerce de gros (commerce interentreprises) de quincaillerie_Commerce de gros (commerce interentreprises) de quincaillerie_Commerce de gros de quincaillerie
+46.74B_46.74_46.7_46_G_Commerce de gros (commerce interentreprises) de fournitures pour la plomberie et le chauffage_Commerce de gros de fournitures pour la plomberie et le chauffage_Cg fourniture pour plomberie & chauffage
+46.75Z_46.75_46.7_46_G_Commerce de gros (commerce interentreprises) de produits chimiques_Commerce de gros de produits chimiques_Commerce de gros de produits chimiques
+46.76Z_46.76_46.7_46_G_Commerce de gros (commerce interentreprises) d'autres produits intermédiaires_Commerce de gros d'autres produits intermédiaires_Commerce gros d'aut. prod. intermédiaire
+46.77Z_46.77_46.7_46_G_Commerce de gros (commerce interentreprises) de déchets et débris_Commerce de gros (commerce interentreprises) de déchets et débris_Commerce de gros de déchets et débris
+46.90Z_46.90_46.9_46_G_Commerce de gros (commerce interentreprises) non spécialisé_Commerce de gros (commerce interentreprises) non spécialisé_Commerce de gros non spécialisé
+47.11A_47.11_47.1_47_G_Commerce de détail de produits surgelés_Commerce de détail de produits surgelés_Commerce de détail de produits surgelés
+47.11B_47.11_47.1_47_G_Commerce d'alimentation générale_Commerce d'alimentation générale_Commerce d'alimentation générale
+47.11C_47.11_47.1_47_G_Supérettes_Supérettes_Supérettes
+47.11D_47.11_47.1_47_G_Supermarchés_Supermarchés_Supermarchés
+47.11E_47.11_47.1_47_G_Magasins multi-commerces_Magasins multi-commerces_Magasins multi-commerces
+47.11F_47.11_47.1_47_G_Hypermarchés_Hypermarchés_Hypermarchés
+47.19A_47.19_47.1_47_G_Grands magasins_Grands magasins_Grands magasins
+47.19B_47.19_47.1_47_G_Autres commerces de détail en magasin non spécialisé_Autres commerces de détail en magasin non spécialisé_Autres comm. détail en magasin non spéc.
+47.21Z_47.21_47.2_47_G_Commerce de détail de fruits et légumes en magasin spécialisé_Commerce de détail de fruits et légumes en magasin spécialisé_Com. détail fruit & légume en mag. spéc.
+47.22Z_47.22_47.2_47_G_Commerce de détail de viandes et de produits à base de viande en magasin spécialisé_Comm. détail viandes & produits à base de viande (magas. spéc.)_Com. dét. viande & prdt avec viande (ms)
+47.23Z_47.23_47.2_47_G_Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé_Comm. détail poissons crustacés & mollusques (magasin spécialisé)_Comm. détail poisson crustacé etc. (ms)
+47.24Z_47.24_47.2_47_G_Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé_Comm. détail pain pâtisserie & confiserie (magasin spécialisé)_Comm. dét. pain pâtiss. & confiser. (ms)
+47.25Z_47.25_47.2_47_G_Commerce de détail de boissons en magasin spécialisé_Commerce de détail de boissons en magasin spécialisé_Com. détail boisson en magasin spéciali.
+47.26Z_47.26_47.2_47_G_Commerce de détail de produits à base de tabac en magasin spécialisé_Comm. détail de produits à base de tabac en magasin spécialisé_Comm. dét. produit à base de tabac (ms)
+47.29Z_47.29_47.2_47_G_Autres commerces de détail alimentaires en magasin spécialisé_Autres commerces de détail alimentaires en magasin spécialisé_Aut. com. détail alim. en mag. spéciali.
+47.30Z_47.30_47.3_47_G_Commerce de détail de carburants en magasin spécialisé_Commerce de détail de carburants en magasin spécialisé_Comm. détail carburant en mag. spéciali.
+47.41Z_47.41_47.4_47_G_Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé_Comm. détail ordinateurs unités périph. & logiciels (magas. spéc)_Com. dét ordi. un. périph. & logicl (ms)
+47.42Z_47.42_47.4_47_G_Commerce de détail de matériels de télécommunication en magasin spécialisé_Comm. détail matériels télécommunication (magasin spécialisé)_Comm. dét. matériel télécom. (ms)
+47.43Z_47.43_47.4_47_G_Commerce de détail de matériels audio et vidéo en magasin spécialisé_Commerce de détail de matériels audio/vidéo en magasin spécialisé_Comm. dét. matériels audio/vidéo (ms)
+47.51Z_47.51_47.5_47_G_Commerce de détail de textiles en magasin spécialisé_Commerce de détail de textiles en magasin spécialisé_Com. dét. textiles en magasin spécialisé
+47.52A_47.52_47.5_47_G_Commerce de détail de quincaillerie, peintures et verres en petites surfaces (moins de 400 m²)_Comm. détail de quincaillerie, peintures et verres (mag.< 400 m2)_Com. dét. quinc. pein. etc. (mag.<400m2)
+47.52B_47.52_47.5_47_G_Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)_Comm. détail de quincaillerie, peintures et verres (mag.> 400 m2)_Com. dét. quinc. pein. etc. (mag.>400m2)
+47.53Z_47.53_47.5_47_G_Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé_Comm. détail tapis, moquettes & revêts murs & sols (magas. spéc.)_Cd tapis moquette & revêt. mur sol (ms)
+47.54Z_47.54_47.5_47_G_Commerce de détail d'appareils électroménagers en magasin spécialisé_Commerce de détail appareils électroménagers (magasin spécialisé)_Comm. dét. appareil électroménager (ms)
+47.59A_47.59_47.5_47_G_Commerce de détail de meubles_Commerce de détail de meubles_Commerce de détail de meubles
+47.59B_47.59_47.5_47_G_Commerce de détail d'autres équipements du foyer_Commerce de détail d'autres équipements du foyer_Comm. détail autres équipements du foyer
+47.61Z_47.61_47.6_47_G_Commerce de détail de livres en magasin spécialisé_Commerce de détail de livres en magasin spécialisé_Comm. dét. livres en magasin spécialisé
+47.62Z_47.62_47.6_47_G_Commerce de détail de journaux et papeterie en magasin spécialisé_Commerce de détail de journaux et papeterie en magasin spécialisé_Comm. détail journaux & papeterie (ms)
+47.63Z_47.63_47.6_47_G_Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé_Comm. détail enreg. musicaux & vidéo (magasin spécialisé)_Com. dét. enreg. musicaux & vidéo (ms)
+47.64Z_47.64_47.6_47_G_Commerce de détail d'articles de sport en magasin spécialisé_Commerce de détail d'articles de sport en magasin spécialisé_Com. dét. articles de sport en mag. spé.
+47.65Z_47.65_47.6_47_G_Commerce de détail de jeux et jouets en magasin spécialisé_Commerce de détail de jeux et jouets en magasin spécialisé_Com. dét. jeux & jouets en mag. spécial.
+47.71Z_47.71_47.7_47_G_Commerce de détail d'habillement en magasin spécialisé_Commerce de détail d'habillement en magasin spécialisé_Com. dét. habillement en mag. spécialisé
+47.72A_47.72_47.7_47_G_Commerce de détail de la chaussure_Commerce de détail de la chaussure_Commerce de détail de la chaussure
+47.72B_47.72_47.7_47_G_Commerce de détail de maroquinerie et d'articles de voyage_Commerce de détail de maroquinerie et d'articles de voyage_Com. dét. maroquinerie & article voyage
+47.73Z_47.73_47.7_47_G_Commerce de détail de produits pharmaceutiques en magasin spécialisé_Commerce de détail produits pharmaceutiques (magasin spécialisé)_Comm. dét. produits pharmaceutiques (ms)
+47.74Z_47.74_47.7_47_G_Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé_Comm. détail d'articles médicaux & orthopédiques en magasin spéc._Com. dét. art. médicaux & orthopéd. (ms)
+47.75Z_47.75_47.7_47_G_Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé_Comm. détail de parfumerie & produits de beauté en magasin spéc._Com. dét. parfumerie & prodt beauté (ms)
+47.76Z_47.76_47.7_47_G_Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé_Comm. dét. fleurs, plantes, etc, animaux de cie et leurs aliments_Com. dét. fleur plante anim. cie + alim.
+47.77Z_47.77_47.7_47_G_Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé_Comm. détail d'articles horlogerie & bijouterie (magas. spéc.)_Com. dét. art. horlogerie & bijout. (ms)
+47.78A_47.78_47.7_47_G_Commerces de détail d'optique_Commerces de détail d'optique_Commerces de détail d'optique
+47.78B_47.78_47.7_47_G_Commerces de détail de charbons et combustibles_Commerces de détail de charbons et combustibles_Comm. détail de charbons & combustibles
+47.78C_47.78_47.7_47_G_Autres commerces de détail spécialisés divers_Autres commerces de détail spécialisés divers_Autre commerce détail spécialisé divers
+47.79Z_47.79_47.7_47_G_Commerce de détail de biens d'occasion en magasin_Commerce de détail de biens d'occasion en magasin_Comm. détail biens d'occasion en magasin
+47.81Z_47.81_47.8_47_G_Commerce de détail alimentaire sur éventaires et marchés_Commerce de détail alimentaire sur éventaires et marchés_Cd alimentaire sur éventaire & marché
+47.82Z_47.82_47.8_47_G_Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés_Comm. détail textiles habillt & chaussures s/éventaires & marchés_Cd textiles habillt & chauss. s/marchés
+47.89Z_47.89_47.8_47_G_Autres commerces de détail sur éventaires et marchés_Autres commerces de détail sur éventaires et marchés_Aut. com. dét. sur éventaires & marchés
+47.91A_47.91_47.9_47_G_Vente à distance sur catalogue général_Vente à distance sur catalogue général_Vente à distance sur catalogue général
+47.91B_47.91_47.9_47_G_Vente à distance sur catalogue spécialisé_Vente à distance sur catalogue spécialisé_Vente à distance sur catalogue spécialis
+47.99A_47.99_47.9_47_G_Vente à domicile_Vente à domicile_Vente à domicile
+47.99B_47.99_47.9_47_G_Vente par automates et autres commerces de détail hors magasin, éventaires ou marchés n.c.a._Vente par automate, aut. com. dét. hors mag., éventaire ou marché_Vente par automate, aut. cd hors magasin
+49.10Z_49.10_49.1_49_H_Transport ferroviaire interurbain de voyageurs_Transport ferroviaire interurbain de voyageurs_Transport ferrov. interurbain voyageur
+49.20Z_49.20_49.2_49_H_Transports ferroviaires de fret_Transports ferroviaires de fret_Transports ferroviaires de fret
+49.31Z_49.31_49.3_49_H_Transports urbains et suburbains de voyageurs_Transports urbains et suburbains de voyageurs_Transport urbain & suburbain de voyageur
+49.32Z_49.32_49.3_49_H_Transports de voyageurs par taxis_Transports de voyageurs par taxis_Transports de voyageurs par taxis
+49.39A_49.39_49.3_49_H_Transports routiers réguliers de voyageurs_Transports routiers réguliers de voyageurs_Transport routier régulier de voyageurs
+49.39B_49.39_49.3_49_H_Autres transports routiers de voyageurs_Autres transports routiers de voyageurs_Autres transports routiers de voyageurs
+49.39C_49.39_49.3_49_H_Téléphériques et remontées mécaniques_Téléphériques et remontées mécaniques_Téléphériques et remontées mécaniques
+49.41A_49.41_49.4_49_H_Transports routiers de fret interurbains_Transports routiers de fret interurbains_Transports routiers de fret interurbains
+49.41B_49.41_49.4_49_H_Transports routiers de fret de proximité_Transports routiers de fret de proximité_Transports routiers de fret de proximité
+49.41C_49.41_49.4_49_H_Location de camions avec chauffeur_Location de camions avec chauffeur_Location de camions avec chauffeur
+49.42Z_49.42_49.4_49_H_Services de déménagement_Services de déménagement_Services de déménagement
+49.50Z_49.50_49.5_49_H_Transports par conduites_Transports par conduites_Transports par conduites
+50.10Z_50.10_50.1_50_H_Transports maritimes et côtiers de passagers_Transports maritimes et côtiers de passagers_Transport maritime & côtier de passagers
+50.20Z_50.20_50.2_50_H_Transports maritimes et côtiers de fret_Transports maritimes et côtiers de fret_Transports maritimes et côtiers de fret
+50.30Z_50.30_50.3_50_H_Transports fluviaux de passagers_Transports fluviaux de passagers_Transports fluviaux de passagers
+50.40Z_50.40_50.4_50_H_Transports fluviaux de fret_Transports fluviaux de fret_Transports fluviaux de fret
+51.10Z_51.10_51.1_51_H_Transports aériens de passagers_Transports aériens de passagers_Transports aériens de passagers
+51.21Z_51.21_51.2_51_H_Transports aériens de fret_Transports aériens de fret_Transports aériens de fret
+51.22Z_51.22_51.2_51_H_Transports spatiaux_Transports spatiaux_Transports spatiaux
+52.10A_52.10_52.1_52_H_Entreposage et stockage frigorifique_Entreposage et stockage frigorifique_Entreposage et stockage frigorifique
+52.10B_52.10_52.1_52_H_Entreposage et stockage non frigorifique_Entreposage et stockage non frigorifique_Entreposage et stockage non frigorifique
+52.21Z_52.21_52.2_52_H_Services auxiliaires des transports terrestres_Services auxiliaires des transports terrestres_Sces auxiliaires de transport terrestre
+52.22Z_52.22_52.2_52_H_Services auxiliaires des transports par eau_Services auxiliaires des transports par eau_Sces auxiliaires des transports par eau
+52.23Z_52.23_52.2_52_H_Services auxiliaires des transports aériens_Services auxiliaires des transports aériens_Sces auxiliaires des transports aériens
+52.24A_52.24_52.2_52_H_Manutention portuaire_Manutention portuaire_Manutention portuaire
+52.24B_52.24_52.2_52_H_Manutention non portuaire_Manutention non portuaire_Manutention non portuaire
+52.29A_52.29_52.2_52_H_Messagerie, fret express_Messagerie, fret express_Messagerie, fret express
+52.29B_52.29_52.2_52_H_Affrètement et organisation des transports_Affrètement et organisation des transports_Affrètement & organisation des transp.
+53.10Z_53.10_53.1_53_H_Activités de poste dans le cadre d'une obligation de service universel_Activ. poste dans le cadre d'une obligation de service universel_Activ. poste (obligation sce universel)
+53.20Z_53.20_53.2_53_H_Autres activités de poste et de courrier_Autres activités de poste et de courrier_Autres activités de poste et de courrier
+55.10Z_55.10_55.1_55_I_Hôtels et hébergement similaire_Hôtels et hébergement similaire_Hôtels et hébergement similaire
+55.20Z_55.20_55.2_55_I_Hébergement touristique et autre hébergement de courte durée_Hébergement touristique et autre hébergement de courte durée_Hébergt tourist. & aut. hbt courte durée
+55.30Z_55.30_55.3_55_I_Terrains de camping et parcs pour caravanes ou véhicules de loisirs_Terrains de camping et parcs pour caravanes, véhicules de loisirs_Terrain camping & parc pr caravane etc.
+55.90Z_55.90_55.9_55_I_Autres hébergements_Autres hébergements_Autres hébergements
+56.10A_56.10_56.1_56_I_Restauration traditionnelle_Restauration traditionnelle_Restauration traditionnelle
+56.10B_56.10_56.1_56_I_Cafétérias et autres libres-services_Cafétérias et autres libres-services_Cafétérias et autres libres-services
+56.10C_56.10_56.1_56_I_Restauration de type rapide_Restauration de type rapide_Restauration de type rapide
+56.21Z_56.21_56.2_56_I_Services des traiteurs_Services des traiteurs_Services des traiteurs
+56.29A_56.29_56.2_56_I_Restauration collective sous contrat_Restauration collective sous contrat_Restauration collective sous contrat
+56.29B_56.29_56.2_56_I_Autres services de restauration n.c.a._Autres services de restauration n.c.a._Autres services de restauration n.c.a.
+56.30Z_56.30_56.3_56_I_Débits de boissons_Débits de boissons_Débits de boissons
+58.11Z_58.11_58.1_58_J_Édition de livres_Édition de livres_Édition de livres
+58.12Z_58.12_58.1_58_J_Édition de répertoires et de fichiers d'adresses_Édition de répertoires et de fichiers d'adresses_Édition répertoires & fichiers d'adresse
+58.13Z_58.13_58.1_58_J_Édition de journaux_Édition de journaux_Édition de journaux
+58.14Z_58.14_58.1_58_J_Édition de revues et périodiques_Édition de revues et périodiques_Édition de revues et périodiques
+58.19Z_58.19_58.1_58_J_Autres activités d'édition_Autres activités d'édition_Autres activités d'édition
+58.21Z_58.21_58.2_58_J_Édition de jeux électroniques_Édition de jeux électroniques_Édition de jeux électroniques
+58.29A_58.29_58.2_58_J_Édition de logiciels système et de réseau_Édition de logiciels système et de réseau_Édition de logiciel système et de réseau
+58.29B_58.29_58.2_58_J_Édition de logiciels outils de développement et de langages_Edition de logiciels outils de développement et de langages_Edit. logiciel outil dévelop. & langage
+58.29C_58.29_58.2_58_J_Édition de logiciels applicatifs_Edition de logiciels applicatifs_Edition de logiciels applicatifs
+59.11A_59.11_59.1_59_J_Production de films et de programmes pour la télévision_Production de films et de programmes pour la télévision_Prod. film & progm. pour la télévision
+59.11B_59.11_59.1_59_J_Production de films institutionnels et publicitaires_Production de films institutionnels et publicitaires_Prod. film institutionnel & publicitaire
+59.11C_59.11_59.1_59_J_Production de films pour le cinéma_Production de films pour le cinéma_Production de films pour le cinéma
+59.12Z_59.12_59.1_59_J_Post-production de films cinématographiques, de vidéo et de programmes de télévision_Post-production films cinématograph. vidéo & prog. de télévision_Post-production film & prog. télévision
+59.13A_59.13_59.1_59_J_Distribution de films cinématographiques_Distribution de films cinématographiques_Distribution de films cinématographiques
+59.13B_59.13_59.1_59_J_Édition et distribution vidéo_Edition et distribution vidéo_Edition et distribution vidéo
+59.14Z_59.14_59.1_59_J_Projection de films cinématographiques_Projection de films cinématographiques_Projection de films cinématographiques
+59.20Z_59.20_59.2_59_J_Enregistrement sonore et édition musicale_Enregistrement sonore et édition musicale_Enregistrement sonore & édition musicale
+60.10Z_60.10_60.1_60_J_Édition et diffusion de programmes radio_Édition et diffusion de programmes radio_Édition et diffusion de programmes radio
+60.20A_60.20_60.2_60_J_Édition de chaînes généralistes_Edition de chaînes généralistes_Edition de chaînes généralistes
+60.20B_60.20_60.2_60_J_Édition de chaînes thématiques_Edition de chaînes thématiques_Edition de chaînes thématiques
+61.10Z_61.10_61.1_61_J_Télécommunications filaires_Télécommunications filaires_Télécommunications filaires
+61.20Z_61.20_61.2_61_J_Télécommunications sans fil_Télécommunications sans fil_Télécommunications sans fil
+61.30Z_61.30_61.3_61_J_Télécommunications par satellite_Télécommunications par satellite_Télécommunications par satellite
+61.90Z_61.90_61.9_61_J_Autres activités de télécommunication_Autres activités de télécommunication_Autres activités de télécommunication
+62.01Z_62.01_62.0_62_J_Programmation informatique_Programmation informatique_Programmation informatique
+62.02A_62.02_62.0_62_J_Conseil en systèmes et logiciels informatiques_Conseil en systèmes et logiciels informatiques_Conseil en système & logiciel informati.
+62.02B_62.02_62.0_62_J_Tierce maintenance de systèmes et d'applications informatiques_Tierce maintenance de systèmes et d’applications informatiques_Tierce mainten. syst. & appli. nformati.
+62.03Z_62.03_62.0_62_J_Gestion d'installations informatiques_Gestion d'installations informatiques_Gestion d'installations informatiques
+62.09Z_62.09_62.0_62_J_Autres activités informatiques_Autres activités informatiques_Autres activités informatiques
+63.11Z_63.11_63.1_63_J_Traitement de données, hébergement et activités connexes_Traitement de données, hébergement et activités connexes_Traitt donnée, hébergt & activ. connexe
+63.12Z_63.12_63.1_63_J_Portails Internet_Portails Internet_Portails Internet
+63.91Z_63.91_63.9_63_J_Activités des agences de presse_Activités des agences de presse_Activités des agences de presse
+63.99Z_63.99_63.9_63_J_Autres services d'information n.c.a._Autres services d'information n.c.a._Autres services d'information n.c.a.
+64.11Z_64.11_64.1_64_K_Activités de banque centrale_Activités de banque centrale_Activités de banque centrale
+64.19Z_64.19_64.1_64_K_Autres intermédiations monétaires_Autres intermédiations monétaires_Autres intermédiations monétaires
+64.20Z_64.20_64.2_64_K_Activités des sociétés holding_Activités des sociétés holding_Activités des sociétés holding
+64.30Z_64.30_64.3_64_K_Fonds de placement et entités financières similaires_Fonds de placement et entités financières similaires_Fonds placement & entité financ. simil.
+64.91Z_64.91_64.9_64_K_Crédit-bail_Crédit-bail_Crédit-bail
+64.92Z_64.92_64.9_64_K_Autre distribution de crédit_Autre distribution de crédit_Autre distribution de crédit
+64.99Z_64.99_64.9_64_K_Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a._Autres activ. serv. financiers sf assurance & c. de retraite, nca_Aut. act. finan. hs as. & c. retra. nca.
+65.11Z_65.11_65.1_65_K_Assurance vie_Assurance vie_Assurance vie
+65.12Z_65.12_65.1_65_K_Autres assurances_Autres assurances_Autres assurances
+65.20Z_65.20_65.2_65_K_Réassurance_Réassurance_Réassurance
+65.30Z_65.30_65.3_65_K_Caisses de retraite_Caisses de retraite_Caisses de retraite
+66.11Z_66.11_66.1_66_K_Administration de marchés financiers_Administration de marchés financiers_Administration de marchés financiers
+66.12Z_66.12_66.1_66_K_Courtage de valeurs mobilières et de marchandises_Courtage de valeurs mobilières et de marchandises_Courtage valeur mobilière & marchandise
+66.19A_66.19_66.1_66_K_Supports juridiques de gestion de patrimoine mobilier_Supports juridiques de gestion de patrimoine mobilier_Support juridiq. gest. patrimoine mobil.
+66.19B_66.19_66.1_66_K_Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, n.c.a._Aut. activ. auxil. serv. financ., hors assur. & caisse retr. nca._Aut. aux. sce financ. hs ass. retr. nca.
+66.21Z_66.21_66.2_66_K_Évaluation des risques et dommages_Évaluation des risques et dommages_Évaluation des risques et dommages
+66.22Z_66.22_66.2_66_K_Activités des agents et courtiers d'assurances_Activités des agents et courtiers d'assurances_Act. des agents & courtiers d'assurances
+66.29Z_66.29_66.2_66_K_Autres activités auxiliaires d'assurance et de caisses de retraite_Aut. activités auxiliaires d'assurance et de caisses de retraite_Aut. act. aux. assur. & caisse retraite
+66.30Z_66.30_66.3_66_K_Gestion de fonds_Gestion de fonds_Gestion de fonds
+68.10Z_68.10_68.1_68_L_Activités des marchands de biens immobiliers_Activités des marchands de biens immobiliers_Activité marchands de biens immobiliers
+68.20A_68.20_68.2_68_L_Location de logements_Location de logements_Location de logements
+68.20B_68.20_68.2_68_L_Location de terrains et d'autres biens immobiliers_Location de terrains et d'autres biens immobiliers_Location terrain & autre bien immobilier
+68.31Z_68.31_68.3_68_L_Agences immobilières_Agences immobilières_Agences immobilières
+68.32A_68.32_68.3_68_L_Administration d'immeubles et autres biens immobiliers_Administration d'immeubles et autres biens immobiliers_Administrat. immeuble & autre bien immo.
+68.32B_68.32_68.3_68_L_Supports juridiques de gestion de patrimoine immobilier_Supports juridiques de gestion de patrimoine immobilier_Support juridi. gestion patrimoine immo.
+69.10Z_69.10_69.1_69_M_Activités juridiques_Activités juridiques_Activités juridiques
+69.20Z_69.20_69.2_69_M_Activités comptables_Activités comptables_Activités comptables
+70.10Z_70.10_70.1_70_M_Activités des sièges sociaux_Activités des sièges sociaux_Activités des sièges sociaux
+70.21Z_70.21_70.2_70_M_Conseil en relations publiques et communication_Conseil en relations publiques et communication_Conseil en relation publique & communic.
+70.22Z_70.22_70.2_70_M_Conseil pour les affaires et autres conseils de gestion_Conseil pour les affaires et autres conseils de gestion_Conseil pr affaire & aut. cons. gestion
+71.11Z_71.11_71.1_71_M_Activités d'architecture_Activités d'architecture_Activités d'architecture
+71.12A_71.12_71.1_71_M_Activité des géomètres_Activité des géomètres_Activité des géomètres
+71.12B_71.12_71.1_71_M_Ingénierie, études techniques_Ingénierie, études techniques_Ingénierie, études techniques
+71.20A_71.20_71.2_71_M_Contrôle technique automobile_Contrôle technique automobile_Contrôle technique automobile
+71.20B_71.20_71.2_71_M_Analyses, essais et inspections techniques_Analyses, essais et inspections techniques_Analyses, essais & inspection technique
+72.11Z_72.11_72.1_72_M_Recherche-développement en biotechnologie_Recherche-développement en biotechnologie_Recherche-développemnt en biotechnologie
+72.19Z_72.19_72.1_72_M_Recherche-développement en autres sciences physiques et naturelles_Recherche-développement : autres sciences physiques et naturelles_R&D : aut. sciences physique & naturelle
+72.20Z_72.20_72.2_72_M_Recherche-développement en sciences humaines et sociales_Recherche-développement en sciences humaines et sociales_R&D en sciences humaines et sociales
+73.11Z_73.11_73.1_73_M_Activités des agences de publicité_Activités des agences de publicité_Activités des agences de publicité
+73.12Z_73.12_73.1_73_M_Régie publicitaire de médias_Régie publicitaire de médias_Régie publicitaire de médias
+73.20Z_73.20_73.2_73_M_Études de marché et sondages_Études de marché et sondages_Études de marché et sondages
+74.10Z_74.10_74.1_74_M_Activités spécialisées de design_Activités spécialisées de design_Activités spécialisées de design
+74.20Z_74.20_74.2_74_M_Activités photographiques_Activités photographiques_Activités photographiques
+74.30Z_74.30_74.3_74_M_Traduction et interprétation_Traduction et interprétation_Traduction et interprétation
+74.90A_74.90_74.9_74_M_Activité des économistes de la construction_Activité des économistes de la construction_Activ des économistes de la construction
+74.90B_74.90_74.9_74_M_Activités spécialisées, scientifiques et techniques diverses_Activités spécialisées, scientifiques et techniques diverses_Act. spéc. scientif. & techniq. diverses
+75.00Z_75.00_75.0_75_M_Activités vétérinaires_Activités vétérinaires_Activités vétérinaires
+77.11A_77.11_77.1_77_N_Location de courte durée de voitures et de véhicules automobiles légers_Location de courte durée voitures & véhicules auto. légers_Loc. courte durée voit. & v. auto. léger
+77.11B_77.11_77.1_77_N_Location de longue durée de voitures et de véhicules automobiles légers_Location de longue durée voitures & véhicules automobiles légers_Loc. longue durée voit. & v. auto. léger
+77.12Z_77.12_77.1_77_N_Location et location-bail de camions_Location et location-bail de camions_Location et location-bail de camions
+77.21Z_77.21_77.2_77_N_Location et location-bail d'articles de loisirs et de sport_Location et location-bail d'articles de loisirs et de sport_Loc. & loc.-bail article loisir & sport
+77.22Z_77.22_77.2_77_N_Location de vidéocassettes et disques vidéo_Location de vidéocassettes et disques vidéo_Location de vidéocassette & disque vidéo
+77.29Z_77.29_77.2_77_N_Location et location-bail d'autres biens personnels et domestiques_Location et location-bail autres biens personnels et domestiques_Loc. & loc.-bail aut. bien perso. & dom.
+77.31Z_77.31_77.3_77_N_Location et location-bail de machines et équipements agricoles_Location et location-bail de machines et équipements agricoles_Loc. & loc.-bail machine & éqpt agricole
+77.32Z_77.32_77.3_77_N_Location et location-bail de machines et équipements pour la construction_Location et location-bail machines & équipts pour la construction_Loc. & loc.-bail mach. & éqpt pr constr.
+77.33Z_77.33_77.3_77_N_Location et location-bail de machines de bureau et de matériel informatique_Location et location-bail machines bureau & matériel informatique_Loc. & loc.-bail mach. bur. & mat. info.
+77.34Z_77.34_77.3_77_N_Location et location-bail de matériels de transport par eau_Location et location-bail de matériels de transport par eau_Loc. & loc.-bail mat. transport par eau
+77.35Z_77.35_77.3_77_N_Location et location-bail de matériels de transport aérien_Location et location-bail de matériels de transport aérien_Loc. & loc.-bail mat. transport aérien
+77.39Z_77.39_77.3_77_N_Location et location-bail d'autres machines, équipements et biens matériels n.c.a._Location et location-bail machines, équipements et biens divers_Loc. & loc.-bail mach., éqpt & bien div.
+77.40Z_77.40_77.4_77_N_Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright_Loc-bail de propriété intell. & sf oeuvres soumises à copyright_Loc-bail propr. intel., sf oeuvre avec ©
+78.10Z_78.10_78.1_78_N_Activités des agences de placement de main-d'œuvre_Activités des agences de placement de main-d'oeuvre_Activ. agence placement de main-d'oeuvre
+78.20Z_78.20_78.2_78_N_Activités des agences de travail temporaire_Activités des agences de travail temporaire_Activ. des agences de travail temporaire
+78.30Z_78.30_78.3_78_N_Autre mise à disposition de ressources humaines_Autre mise à disposition de ressources humaines_Aut. mise à dispo. de ressource humaine
+79.11Z_79.11_79.1_79_N_Activités des agences de voyage_Activités des agences de voyage_Activités des agences de voyage
+79.12Z_79.12_79.1_79_N_Activités des voyagistes_Activités des voyagistes_Activités des voyagistes
+79.90Z_79.90_79.9_79_N_Autres services de réservation et activités connexes_Autres services de réservation et activités connexes_Autre serv. réservation & activ. connexe
+80.10Z_80.10_80.1_80_N_Activités de sécurité privée_Activités de sécurité privée_Activités de sécurité privée
+80.20Z_80.20_80.2_80_N_Activités liées aux systèmes de sécurité_Activités liées aux systèmes de sécurité_Activités liées aux systèmes de sécurité
+80.30Z_80.30_80.3_80_N_Activités d'enquête_Activités d'enquête_Activités d'enquête
+81.10Z_81.10_81.1_81_N_Activités combinées de soutien lié aux bâtiments_Activités combinées de soutien lié aux bâtiments_Act. combinée soutien lié aux bâtiments
+81.21Z_81.21_81.2_81_N_Nettoyage courant des bâtiments_Nettoyage courant des bâtiments_Nettoyage courant des bâtiments
+81.22Z_81.22_81.2_81_N_Autres activités de nettoyage des bâtiments et nettoyage industriel_Autres activités nettoyage des bâtiments et nettoyage industriel_Aut. act. nettoyage bâtim. & nett. ind.
+81.29A_81.29_81.2_81_N_Désinfection, désinsectisation, dératisation_Désinfection, désinsectisation, dératisation_Désinfection désinsectisatn dératisation
+81.29B_81.29_81.2_81_N_Autres activités de nettoyage n.c.a._Autres activités de nettoyage n.c.a._Autres activités de nettoyage n.c.a.
+81.30Z_81.30_81.3_81_N_Services d'aménagement paysager_Services d'aménagement paysager_Services d'aménagement paysager
+82.11Z_82.11_82.1_82_N_Services administratifs combinés de bureau_Services administratifs combinés de bureau_Services admin. combinés de bureau
+82.19Z_82.19_82.1_82_N_Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau_Photocopie prépa. documents & aut. activ. spéc. soutien de bureau_Photocopie & aut. act. spé. sout. bureau
+82.20Z_82.20_82.2_82_N_Activités de centres d'appels_Activités de centres d'appels_Activités de centres d'appels
+82.30Z_82.30_82.3_82_N_Organisation de foires, salons professionnels et congrès_Organisation de foires, salons professionnels et congrès_Organisation salon profession. & congrès
+82.91Z_82.91_82.9_82_N_Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle_Activ. de recouvrement factures & d'info. financ. s/la clientèle_Act. recouv. fac. & info. fin. s/client.
+82.92Z_82.92_82.9_82_N_Activités de conditionnement_Activités de conditionnement_Activités de conditionnement
+82.99Z_82.99_82.9_82_N_Autres activités de soutien aux entreprises n.c.a._Autres activités de soutien aux entreprises n.c.a._Autre activité de soutien aux entr. nca.
+84.11Z_84.11_84.1_84_O_Administration publique générale_Administration publique générale_Administration publique générale
+84.12Z_84.12_84.1_84_O_Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale_Adm. pub. tutelle santé form. cult. & social (aut que sécu. soc.)_A. p. santé form. cult. & soc. (sf sécu)
+84.13Z_84.13_84.1_84_O_Administration publique (tutelle) des activités économiques_Administration publique (tutelle) des activités économiques_Adm. publique des activités économiques
+84.21Z_84.21_84.2_84_O_Affaires étrangères_Affaires étrangères_Affaires étrangères
+84.22Z_84.22_84.2_84_O_Défense_Défense_Défense
+84.23Z_84.23_84.2_84_O_Justice_Justice_Justice
+84.24Z_84.24_84.2_84_O_Activités d'ordre public et de sécurité_Activités d’ordre public et de sécurité_Activités d’ordre public et de sécurité
+84.25Z_84.25_84.2_84_O_Services du feu et de secours_Services du feu et de secours_Services du feu et de secours
+84.30A_84.30_84.3_84_O_Activités générales de sécurité sociale_Activités générales de sécurité sociale_Activités générales de sécurité sociale
+84.30B_84.30_84.3_84_O_Gestion des retraites complémentaires_Gestion des retraites complémentaires_Gestion des retraites complémentaires
+84.30C_84.30_84.3_84_O_Distribution sociale de revenus_Distribution sociale de revenus_Distribution sociale de revenus
+85.10Z_85.10_85.1_85_P_Enseignement pré-primaire_Enseignement pré-primaire_Enseignement pré-primaire
+85.20Z_85.20_85.2_85_P_Enseignement primaire_Enseignement primaire_Enseignement primaire
+85.31Z_85.31_85.3_85_P_Enseignement secondaire général_Enseignement secondaire général_Enseignement secondaire général
+85.32Z_85.32_85.3_85_P_Enseignement secondaire technique ou professionnel_Enseignement secondaire technique ou professionnel_Enseignemt secondaire techn. ou profess.
+85.41Z_85.41_85.4_85_P_Enseignement post-secondaire non supérieur_Enseignement post-secondaire non supérieur_Enseignement post-secondaire non sup.
+85.42Z_85.42_85.4_85_P_Enseignement supérieur_Enseignement supérieur_Enseignement supérieur
+85.51Z_85.51_85.5_85_P_Enseignement de disciplines sportives et d'activités de loisirs_Enseignement de disciplines sportives et d'activités de loisirs_Enseigmnt discipl. sport. & act. loisir.
+85.52Z_85.52_85.5_85_P_Enseignement culturel_Enseignement culturel_Enseignement culturel
+85.53Z_85.53_85.5_85_P_Enseignement de la conduite_Enseignement de la conduite_Enseignement de la conduite
+85.59A_85.59_85.5_85_P_Formation continue d'adultes_Formation continue d'adultes_Formation continue d'adultes
+85.59B_85.59_85.5_85_P_Autres enseignements_Autres enseignements_Autres enseignements
+85.60Z_85.60_85.6_85_P_Activités de soutien à l'enseignement_Activités de soutien à l'enseignement_Activités de soutien à l'enseignement
+86.10Z_86.10_86.1_86_Q_Activités hospitalières_Activités hospitalières_Activités hospitalières
+86.21Z_86.21_86.2_86_Q_Activité des médecins généralistes_Activité des médecins généralistes_Activité des médecins généralistes
+86.22A_86.22_86.2_86_Q_Activités de radiodiagnostic et de radiothérapie_Activités de radiodiagnostic et de radiothérapie_Act. radiodiagnostic et de radiothérapie
+86.22B_86.22_86.2_86_Q_Activités chirurgicales_Activités chirurgicales_Activités chirurgicales
+86.22C_86.22_86.2_86_Q_Autres activités des médecins spécialistes_Autres activités des médecins spécialistes_Autre activité des médecins spécialistes
+86.23Z_86.23_86.2_86_Q_Pratique dentaire_Pratique dentaire_Pratique dentaire
+86.90A_86.90_86.9_86_Q_Ambulances_Ambulances_Ambulances
+86.90B_86.90_86.9_86_Q_Laboratoires d'analyses médicales_Laboratoires d'analyses médicales_Laboratoires d'analyses médicales
+86.90C_86.90_86.9_86_Q_Centres de collecte et banques d'organes_Centres de collecte et banques d'organes_Centres de collecte et banques d'organes
+86.90D_86.90_86.9_86_Q_Activités des infirmiers et des sages-femmes_Activités des infirmiers et des sages-femmes_Act. des infirmiers et des sages-femmes
+86.90E_86.90_86.9_86_Q_Activités des professionnels de la rééducation, de l'appareillage et des pédicures-podologues_Activité profess. rééducation appareillage & pédicures-podologues_Act. rééduc. appareillag. & pédic.-podo.
+86.90F_86.90_86.9_86_Q_Activités de santé humaine non classées ailleurs_Activités de santé humaine non classées ailleurs_Activités de santé humaine nca.
+87.10A_87.10_87.1_87_Q_Hébergement médicalisé pour personnes âgées_Hébergement médicalisé pour personnes âgées_Hébergt médicalisé pour personnes âgées
+87.10B_87.10_87.1_87_Q_Hébergement médicalisé pour enfants handicapés_Hébergement médicalisé pour enfants handicapés_Hébergt médicalisé pr enfants handicapés
+87.10C_87.10_87.1_87_Q_Hébergement médicalisé pour adultes handicapés et autre hébergement médicalisé_Héberg. médicalisé adultes handicapés & autre héberg. médicalisé_Hébrgt médic. adul. hand. & aut. ht méd.
+87.20A_87.20_87.2_87_Q_Hébergement social pour handicapés mentaux et malades mentaux_Hébergement social pour handicapés mentaux et malades mentaux_Hébrgt soc. hand. mental & malade mental
+87.20B_87.20_87.2_87_Q_Hébergement social pour toxicomanes_Hébergement social pour toxicomanes_Hébergement social pour toxicomanes
+87.30A_87.30_87.3_87_Q_Hébergement social pour personnes âgées_Hébergement social pour personnes âgées_Hébergement social pour personnes âgées
+87.30B_87.30_87.3_87_Q_Hébergement social pour handicapés physiques_Hébergement social pour handicapés physiques_Hébergt social pour handicapés physiques
+87.90A_87.90_87.9_87_Q_Hébergement social pour enfants en difficultés_Hébergement social pour enfants en difficultés_Hébergt social pr enfants en difficultés
+87.90B_87.90_87.9_87_Q_Hébergement social pour adultes et familles en difficultés et autre hébergement social_Hébergement social pour adultes, familles en difficultés et autre_Hébgt soc. adult., famille en difficulté
+88.10A_88.10_88.1_88_Q_Aide à domicile_Aide à domicile_Aide à domicile
+88.10B_88.10_88.1_88_Q_Accueil ou accompagnement sans hébergement d'adultes handicapés ou de personnes âgées_Accueil accompagn. sans héberg. adultes handicapés ou pers. âgées_Accueil ss hbgt adult. hand., pers. âgée
+88.10C_88.10_88.1_88_Q_Aide par le travail_Aide par le travail_Aide par le travail
+88.91A_88.91_88.9_88_Q_Accueil de jeunes enfants_Accueil de jeunes enfants_Accueil de jeunes enfants
+88.91B_88.91_88.9_88_Q_Accueil ou accompagnement sans hébergement d'enfants handicapés_Accueil ou accompagnement sans hébergement d’enfants handicapés_Accueil sans hébergt d'enfant handicap
+88.99A_88.99_88.9_88_Q_Autre accueil ou accompagnement sans hébergement d'enfants et d'adolescents_Aut. accueil ou accompgnt sans hébergt d’enfants et adolescents_Aut. accueil sans hébrgt enfants & ado.
+88.99B_88.99_88.9_88_Q_Action sociale sans hébergement n.c.a._Action sociale sans hébergement n.c.a._Action sociale sans hébergement n.c.a.
+90.01Z_90.01_90.0_90_R_Arts du spectacle vivant_Arts du spectacle vivant_Arts du spectacle vivant
+90.02Z_90.02_90.0_90_R_Activités de soutien au spectacle vivant_Activités de soutien au spectacle vivant_Activités de soutien au spectacle vivant
+90.03A_90.03_90.0_90_R_Création artistique relevant des arts plastiques_Création artistique relevant des arts plastiques_Création artistique (arts plastiques)
+90.03B_90.03_90.0_90_R_Autre création artistique_Autre création artistique_Autre création artistique
+90.04Z_90.04_90.0_90_R_Gestion de salles de spectacles_Gestion de salles de spectacles_Gestion de salles de spectacles
+91.01Z_91.01_91.0_91_R_Gestion des bibliothèques et des archives_Gestion des bibliothèques et des archives_Gestion des bibliothèques & des archives
+91.02Z_91.02_91.0_91_R_Gestion des musées_Gestion des musées_Gestion des musées
+91.03Z_91.03_91.0_91_R_Gestion des sites et monuments historiques et des attractions touristiques similaires_Gestion sites monuments historiques & attractions tourist. simil._Gestion site histor. & attraction simil.
+91.04Z_91.04_91.0_91_R_Gestion des jardins botaniques et zoologiques et des réserves naturelles_Gest. des jardins botaniques et zoolog. et des réserv. naturelles_Gest. jardin bota. & zoo. & réserv. nat.
+92.00Z_92.00_92.0_92_R_Organisation de jeux de hasard et d'argent_Organisation de jeux de hasard et d'argent_Organisation jeux de hasard & d'argent
+93.11Z_93.11_93.1_93_R_Gestion d'installations sportives_Gestion d'installations sportives_Gestion d'installations sportives
+93.12Z_93.12_93.1_93_R_Activités de clubs de sports_Activités de clubs de sports_Activités de clubs de sports
+93.13Z_93.13_93.1_93_R_Activités des centres de culture physique_Activités des centres de culture physique_Activité des centres de culture physique
+93.19Z_93.19_93.1_93_R_Autres activités liées au sport_Autres activités liées au sport_Autres activités liées au sport
+93.21Z_93.21_93.2_93_R_Activités des parcs d'attractions et parcs à thèmes_Activités des parcs d'attractions et parcs à thèmes_Act. parcs attractions & parcs à thèmes
+93.29Z_93.29_93.2_93_R_Autres activités récréatives et de loisirs_Autres activités récréatives et de loisirs_Autres activités récréative & de loisirs
+94.11Z_94.11_94.1_94_S_Activités des organisations patronales et consulaires_Activités des organisations patronales et consulaires_Act. organisations patronale & consul.
+94.12Z_94.12_94.1_94_S_Activités des organisations professionnelles_Activités des organisations professionnelles_Act. des organisations professionnelles
+94.20Z_94.20_94.2_94_S_Activités des syndicats de salariés_Activités des syndicats de salariés_Activités des syndicats de salariés
+94.91Z_94.91_94.9_94_S_Activités des organisations religieuses_Activités des organisations religieuses_Activités des organisations religieuses
+94.92Z_94.92_94.9_94_S_Activités des organisations politiques_Activités des organisations politiques_Activités des organisations politiques
+94.99Z_94.99_94.9_94_S_Autres organisations fonctionnant par adhésion volontaire_Autres organisations fonctionnant par adhésion volontaire_Aut. org. fonctionnant par adhé. volont.
+95.11Z_95.11_95.1_95_S_Réparation d'ordinateurs et d'équipements périphériques_Réparation d'ordinateurs et d'équipements périphériques_Répar. ordinateur & équipt périphérique
+95.12Z_95.12_95.1_95_S_Réparation d'équipements de communication_Réparation d'équipements de communication_Réparation équipements de communication
+95.21Z_95.21_95.2_95_S_Réparation de produits électroniques grand public_Réparation de produits électroniques grand public_Réparation prdts électroniq. grd public
+95.22Z_95.22_95.2_95_S_Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin_Réparation appareils électromén. & équipts maison & jardin_Répar. électromén. & éqpt maison & jard.
+95.23Z_95.23_95.2_95_S_Réparation de chaussures et d'articles en cuir_Réparation de chaussures et d'articles en cuir_Réparation chaussures & articles en cuir
+95.24Z_95.24_95.2_95_S_Réparation de meubles et d'équipements du foyer_Réparation de meubles et d'équipements du foyer_Réparation meubles & d'équipt du foyer
+95.25Z_95.25_95.2_95_S_Réparation d'articles d'horlogerie et de bijouterie_Réparation d'articles d'horlogerie et de bijouterie_Répar.articles horlogerie & bijouterie
+95.29Z_95.29_95.2_95_S_Réparation d'autres biens personnels et domestiques_Réparation d'autres biens personnels et domestiques_Répar. aut. biens personnel & domestique
+96.01A_96.01_96.0_96_S_Blanchisserie-teinturerie de gros_Blanchisserie-teinturerie de gros_Blanchisserie-teinturerie de gros
+96.01B_96.01_96.0_96_S_Blanchisserie-teinturerie de détail_Blanchisserie-teinturerie de détail_Blanchisserie-teinturerie de détail
+96.02A_96.02_96.0_96_S_Coiffure_Coiffure_Coiffure
+96.02B_96.02_96.0_96_S_Soins de beauté_Soins de beauté_Soins de beauté
+96.03Z_96.03_96.0_96_S_Services funéraires_Services funéraires_Services funéraires
+96.04Z_96.04_96.0_96_S_Entretien corporel_Entretien corporel_Entretien corporel
+96.09Z_96.09_96.0_96_S_Autres services personnels n.c.a._Autres services personnels n.c.a._Autres services personnels n.c.a.
+97.00Z_97.00_97.0_97_T_Activités des ménages en tant qu'employeurs de personnel domestique_Activités des ménages : employeurs de personnel domestique_Act. ménage: empl. de person. domestique
+98.10Z_98.10_98.1_98_T_Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre_Activ. indifférenciées ménages : producteurs biens (usage propre)_Act. ménage : prod. biens (usage propre)
+98.20Z_98.20_98.2_98_T_Activités indifférenciées des ménages en tant que producteurs de services pour usage propre_Activ. indifférenciées ménages : produc. services (usage propre)_Act. ménage : prod. serv. (usage propre)
+99.00Z_99.00_99.0_99_U_Activités des organisations et organismes extraterritoriaux_Activités des organisations et organismes extraterritoriaux_Act. organisations extraterritoriales
