@@ -1,0 +1,651 @@
+NAP600_LIB_NAP600_NAP100_LIB_NAP100_NAP40_LIB_NAP40_NAP15_LIB_NAP15
+01.00_Cultures générales_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.07_Cultures générales associées à d'autres activités agricoles_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.10_Production de légumes frais, de fleurs; pépinières_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.16_Cultures fruitières_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.17_Viticulture_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.30_Vinification_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.50_Elevage de bovins_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.56_Elevage de bovins associé à d'autres activités agricoles_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.57_Elevage d'ovins, caprins, équins_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.60_Elevage de porcins_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.63_Aviculture_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.70_Productions agricoles diverses_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.74_Chasse et piégeage_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.80_Travaux agricoles à façon_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+01.90_Services effectués au profit de l'élevage_01_Agriculture_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+02.10_Sylviculture et services aux forêts_02_Sylviculture et exploitation forestière_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+02.20_Exploitation forestière_02_Sylviculture et exploitation forestière_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+03.10_Pêche en mer_03_Pêche_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+03.20_Conchyliculture_03_Pêche_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+03.30_Pisciculture et pêche en eau douce_03_Pêche_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+03.40_Culture et récolte de produits marins divers_03_Pêche_T01_Agriculture, sylviculture, pêche_U01_Agriculture, sylviculture, pêche
+35.01_Abattage du bétail_35_Industrie de la viande_T02_Industries de la viande et du lait_U02_Industries agricoles et alimentaires
+35.04_Fabrication de charcuterie et de conserves de viandes_35_Industrie de la viande_T02_Industries de la viande et du lait_U02_Industries agricoles et alimentaires
+35.05_Abattage de volaille_35_Industrie de la viande_T02_Industries de la viande et du lait_U02_Industries agricoles et alimentaires
+36.10_Industrie laitière_36_Industrie laitière_T02_Industries de la viande et du lait_U02_Industries agricoles et alimentaires
+36.20_Fabrication de crèmes glacées, glaces et sorbets_36_Industrie laitière_T02_Industries de la viande et du lait_U02_Industries agricoles et alimentaires
+37.01_Conserverie de fruits et confitures_37_Fabrication de conserves_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+37.02_Conserverie de légumes_37_Fabrication de conserves_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+37.03_Conserverie de poissons_37_Fabrication de conserves_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+37.04_Préparation de plats cuisinés_37_Fabrication de conserves_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+38.10_Fabrication industrielle de pain et de pâtisserie fraîche_38_Boulangerie, pâtisserie_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+38.40_Boulangerie, pâtisserie_38_Boulangerie, pâtisserie_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+38.50_Pâtisserie_38_Boulangerie, pâtisserie_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+39.01_Meunerie_39_Travail du grain_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+39.02_Biscuiterie, biscotterie_39_Travail du grain_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+39.03_Semoulerie_39_Travail du grain_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+39.04_Fabrication de pâtes alimentaires et de couscous_39_Travail du grain_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+39.05_Transformation de céréales secondaires_39_Travail du grain_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+39.06_Malterie_39_Travail du grain_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+39.07_Fabrication de produits amylacés_39_Travail du grain_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+39.08_Fabrication d'aliments pour animaux_39_Travail du grain_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.11_Fabrication d'huiles et corps gras bruts_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.12_Fabrication d'huiles et corps gras raffinés et de margarine_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.21_Sucreries, raffineries de sucre_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.31_Chocolaterie, confiserie_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.32_Torréfaction et brûlerie de café, thé, chicorée et infusions, préparation d'épices et herbes aromatiques_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.33_Fabrication de condiments, vinaigre, sauces préparées_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.34_Fabrication d'aliments diététiques, aliments pour bébé, produits de régime_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.35_Fabrication d'entremets, desserts ménagers et petits déjeuners_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.36_Fabrication de bouillons et potages_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+40.37_Fabrication de produits alimentaires divers_40_Fabrication de produits alimentaires divers_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.01_Distillation d'alcool_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.02_Distillation d'eau de vie naturelle_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.03_Production de liqueurs et apéritifs alcoolisés autres qu'à base de vin_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.04_Production d'apéritifs à base de vin_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.05_Champagnisation_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.06_Brasserie_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.07_Cidrerie_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.08_Production de jus de fruits et de légumes_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.09_Fabrication de boissons non alcoolisées élaborées_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+41.10_Production d'eaux minérales naturelles_41_Fabrication de boissons et alcools_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+42.01_Transformation du tabac_42_Transformation du tabac_T03_Autres industries agricoles et alimentaires_U02_Industries agricoles et alimentaires
+04.11_Production de combustibles minéraux solides_04_Production de combustibles minéraux solides et cokéfaction_T04_Production de combustibles minéraux solides et cokéfaction_U03_Production et distribution d'énergie
+04.21_Cokéfaction_04_Production de combustibles minéraux solides et cokéfaction_T04_Production de combustibles minéraux solides et cokéfaction_U03_Production et distribution d'énergie
+05.11_Extraction de pétrole_05_Production de pétrole et de gaz naturel_T05_Production de pétrole et de gaz naturel_U03_Production et distribution d'énergie
+05.21_Extraction de gaz naturel_05_Production de pétrole et de gaz naturel_T05_Production de pétrole et de gaz naturel_U03_Production et distribution d'énergie
+05.31_Raffinage de pétrole_05_Production de pétrole et de gaz naturel_T05_Production de pétrole et de gaz naturel_U03_Production et distribution d'énergie
+06.01_Production et distribution d'électricité_06_Production et distribution d'électricité_T06_Production et distribution d'électricité, distribution de gaz et d'eau_U03_Production et distribution d'énergie
+07.01_Distribution de gaz_07_Distribution de gaz_T06_Production et distribution d'électricité, distribution de gaz et d'eau_U03_Production et distribution d'énergie
+08.01_Production et distribution d'eau_08_Distribution d'eau et chauffage urbain_T06_Production et distribution d'électricité, distribution de gaz et d'eau_U03_Production et distribution d'énergie
+08.02_Chauffage urbain et distribution d'énergies diverses_08_Distribution d'eau et chauffage urbain_T06_Production et distribution d'électricité, distribution de gaz et d'eau_U03_Production et distribution d'énergie
+09.01_Extraction et préparation de minerai de fer_09_Extraction et préparation de minerai de fer_T07_Production de minerais et de métaux ferreux, première transformation de l'acier_U04_Industries des biens intermédiaires
+10.01_Sidérurgie_10_Sidérurgie_T07_Production de minerais et de métaux ferreux, première transformation de l'acier_U04_Industries des biens intermédiaires
+11.01_Tréfilage de l'acier et production des dérivés du fil d'acier_11_Première transformation de l'acier_T07_Production de minerais et de métaux ferreux, première transformation de l'acier_U04_Industries des biens intermédiaires
+11.02_Laminage à froid du feuillard d'acier_11_Première transformation de l'acier_T07_Production de minerais et de métaux ferreux, première transformation de l'acier_U04_Industries des biens intermédiaires
+11.03_Etirage et profilage des produits pleins en acier_11_Première transformation de l'acier_T07_Production de minerais et de métaux ferreux, première transformation de l'acier_U04_Industries des biens intermédiaires
+11.04_Profilage des produits plats en acier_11_Première transformation de l'acier_T07_Production de minerais et de métaux ferreux, première transformation de l'acier_U04_Industries des biens intermédiaires
+11.05_Fabrication de tubes d'acier_11_Première transformation de l'acier_T07_Production de minerais et de métaux ferreux, première transformation de l'acier_U04_Industries des biens intermédiaires
+12.01_Extraction et préparation de bauxite_12_Extraction et préparation de minerais non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+12.02_Extraction et préparation de minerais de plomb, zinc et cuivre_12_Extraction et préparation de minerais non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+12.03_Extraction de minerais contenant des matières fissiles et fer_12_Extraction et préparation de minerais non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+12.04_Extraction et préparation d'autres minerais métalliques_12_Extraction et préparation de minerais non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.01_Métallurgie de l'aluminium et des autres métaux légers_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.02_Métallurgie du plomb, du zinc, du cadmium_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.03_Métallurgie des métaux précieux_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.04_Métallurgie des ferro-alliages_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.05_Production d'autres métaux non ferreux_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.10_Fabrication de demi-produits en aluminium et autres métaux légers_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.11_Fabrication de demi-produits en plomb, zinc et cadmium_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.12_Fabrication de demi-produits en cuivre_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.13_Fabrication de demi-produits en métaux précieux_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.14_Fabrication d'autres demi-produits non ferreux_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.15_Production et transformation de matières fissiles_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+13.16_Production et transformation de matières fertiles_13_Métallurgie et première transformation des métaux non ferreux_T08_Production de minerais, métaux et demi-produits non ferreux_U04_Industries des biens intermédiaires
+14.01_Production de sels (chlorure de sodium et sels divers) ; marais salants_14_Production de minéraux divers_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+14.02_Production de matériaux de carrière pour l'industrie_14_Production de minéraux divers_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+14.03_Production de minéraux divers : asphalte, talc etc.._14_Production de minéraux divers_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.01_Extraction de sables et graviers d'alluvions_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.02_Production de matériaux concassés de roche et de laitier_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.03_Production de pierres de construction_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.04_Extraction d'argiles, kaolin, terres réfractaires_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.05_Fabrication de plâtres et de produits en plâtre_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.06_Fabrication de chaux et ciments_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.07_Préparation et livraison de béton prêt à l'emploi_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.08_Fabrication de produits en béton_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.09_Fabrication de matériaux de construction divers_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.10_Fabrication de tuiles et briques_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.11_Fabrication de produits réfractaires_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.12_Fabrication de produits en grès, en faïence, en autres matières céramiques_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+15.13_Fabrication de vaisselle de ménage en céramique_15_Production de matériaux de construction et de céramique_T09_Production de matériaux de construction et de minéraux divers_U04_Industries des biens intermédiaires
+16.01_Fabrication façonnage et transformation de verre plat, miroiterie_16_Industrie du verre_T10_Industrie du verre_U04_Industries des biens intermédiaires
+16.02_Fabrication façonnage et transformation de verre creux mécanique, de verrerie de ménage_16_Industrie du verre_T10_Industrie du verre_U04_Industries des biens intermédiaires
+16.03_Fabrication de verre à la main_16_Industrie du verre_T10_Industrie du verre_U04_Industries des biens intermédiaires
+16.04_Fabrication de verre technique_16_Industrie du verre_T10_Industrie du verre_U04_Industries des biens intermédiaires
+17.12_Industrie de l'acide sulfurique et des produits dérivés_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.13_Fabrication de produits chimiques par électrolyse ou électrothermie_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.14_Fabrication de gaz comprimés_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.15_Fabrication d'opacifiants minéraux compositions et couleurs pour émaux_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.16_Fabrication de produits divers de la chimie minérale_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.17_Fabrication d'engrais azotés et autres produits azotés_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.18_Fabrication d'engrais phosphatés_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.19_Fabrication d'autres engrais_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.21_Chimie organique de synthèse_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.22_Fabrication de matières colorantes de synthèse_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.23_Traitement chimique des corps gras notamment stéarinerie et glycérinerie ; fabrication de produits de base pour détergents_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.24_Fabrication de produits de base pour la pharmacie_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.25_Fabrication de produits auxiliaires pour les industries textiles, du cuir et du caoutchouc, transformation de matières animales et végétales_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.26_Fabrication et distillation de goudrons_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.27_Fabrication de matières plastiques_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.28_Fabrication de caoutchouc synthétique et autres élastomères_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+17.29_Fabrication d'huiles essentielles, d'arômes naturels et synthétiques_17_Industrie chimique de base_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+43.01_Production de fibres discontinues et de fils continus artificiels_43_Industrie des fils et fibres artificiels et synthétiques_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+43.02_Production de fibres discontinues et de fils continus synthétiques_43_Industrie des fils et fibres artificiels et synthétiques_T11_Chimie de base, production de fils et de fibres artificiels synthétiques_U04_Industries des biens intermédiaires
+20.01_Fonderie de métaux ferreux_20_Fonderie_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+20.02_Fonderie de métaux non ferreux_20_Fonderie_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.01_Forge, estampage, matriçage_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.02_Découpage, emboutissage_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.03_Traitement et revêtement des métaux_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.04_Décolletage_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.05_Boulonnerie, visserie_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.06_Construction métallique_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.07_Menuiserie métallique de bâtiment_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.08_Mécanique générale, fabrication de moules et modèles_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.09_Fabrication d'outillage à main, d'outillage électroportatif, d'outillage agricole_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.10_Fabrication de ressorts_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.11_Fabrication de quincaillerie_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.12_Ferblanterie, fabrication d'articles de ménage, de coutellerie_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.13_Fabrication de mobilier métallique_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.14_Fabrication de fûts et tonnelets métalliques, de boîtes et emballages métalliques fabrication de conditionnements métalliques_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.15_Fabrication de petits articles métalliques_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.16_Frittage des métaux, fabrication d'aimants permanents_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+21.17_Fabrication d'armes de chasse, de tir, de défense_21_Travail des métaux_T13_Fonderie et travail des métaux_U04_Industries des biens intermédiaires
+50.01_Fabrication de pâtes à papier_50_Industrie du papier et du carton_T21_Industries de papier et du carton_U04_Industries des biens intermédiaires
+50.02_Fabrication de papiers et de cartons_50_Industrie du papier et du carton_T21_Industries de papier et du carton_U04_Industries des biens intermédiaires
+50.03_Fabrication d'articles de papeterie_50_Industrie du papier et du carton_T21_Industries de papier et du carton_U04_Industries des biens intermédiaires
+50.04_Transformation du papier_50_Industrie du papier et du carton_T21_Industries de papier et du carton_U04_Industries des biens intermédiaires
+50.06_Fabrication de carton ondulé et de produits en carton ondulé_50_Industrie du papier et du carton_T21_Industries de papier et du carton_U04_Industries des biens intermédiaires
+50.07_Fabrication de cartonnages_50_Industrie du papier et du carton_T21_Industries de papier et du carton_U04_Industries des biens intermédiaires
+52.01_Fabrication de pneumatiques et chambres à air_52_Industrie du caoutchouc_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+52.02_Rechapage et réparation industrielle de pneumatiques_52_Industrie du caoutchouc_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+52.03_Fabrication d'ouvrages en caoutchouc_52_Industrie du caoutchouc_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+52.04_Fabrication d'ouvrages en amiante_52_Industrie du caoutchouc_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+53.01_Fabrication de mélanges, plaques, feuilles, films, tubes, tuyaux et profilés_53_Transformation des matières plastiques_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+53.02_Fabrication de pièces diverses pour l'industrie_53_Transformation des matières plastiques_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+53.03_Fabrication d'emballages en matières plastiques_53_Transformation des matières plastiques_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+53.04_Fabrication d'éléments pour le bâtiment_53_Transformation des matières plastiques_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+53.05_Fabrication de produits de consommation divers_53_Transformation des matières plastiques_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+53.06_Fabrication de pellicules cellulosiques_53_Transformation des matières plastiques_T23_Industrie du caoutchouc, transformation des matières plastiques_U04_Industries des biens intermédiaires
+22.01_Fabrication de tracteurs agricoles_22_Fabrication de machines agricoles_T14_Construction mécanique_U05_Industries des biens d'équipement
+22.02_Fabrication d'autre matériel agricole_22_Fabrication de machines agricoles_T14_Construction mécanique_U05_Industries des biens d'équipement
+23.01_Fabrication de machines-outils à métaux_23_Fabrication de machines-outils_T14_Construction mécanique_U05_Industries des biens d'équipement
+23.02_Fabrication de machines à bois_23_Fabrication de machines-outils_T14_Construction mécanique_U05_Industries des biens d'équipement
+23.03_Fabrication d'outillage, outils pour machines_23_Fabrication de machines-outils_T14_Construction mécanique_U05_Industries des biens d'équipement
+23.04_Fabrication d'engrenages et organes de transmission_23_Fabrication de machines-outils_T14_Construction mécanique_U05_Industries des biens d'équipement
+23.05_Fabrication de matériel de soudage_23_Fabrication de machines-outils_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.01_Robinetterie_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.02_Fabrication et installation de fours_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.03_Fabrication et installation de matériel aéraulique, thermique et frigorifique_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.04_Fabrication de moteurs à combustion interne autres que pour l'automobile et l'aéronautique_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.05_Fabrication de transmissions hydrauliques et pneumatiques_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.06_Fabrication de pompes et compresseurs_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.07_Fabrication de turbines thermiques et hydrauliques et d'équipements de barrages_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.08_Chaudronnerie_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.09_Fabrication de machines pour les industries alimentaires chimiques, plastiques et de machines à chaussures_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.10_Fabrication de machines pour les industries textiles et de machines à coudre industrielles_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+24.11_Fabrication de machines pour les industries du papier, du carton et des arts graphiques_24_Production d'équipement industriel_T14_Construction mécanique_U05_Industries des biens d'équipement
+25.01_Fabrication de matériel de travaux publics_25_Fabrication de matériel de manutention, de matériel pour les mines, la sidérurgie, le génie civil_T14_Construction mécanique_U05_Industries des biens d'équipement
+25.02_Fabrication de matériel pour la sidérurgie pour la fonderie, pour la préparation des matériaux, matériel fixe de chemin de fer_25_Fabrication de matériel de manutention, de matériel pour les mines, la sidérurgie, le génie civil_T14_Construction mécanique_U05_Industries des biens d'équipement
+25.03_Fabrication de matériel de manutention et de levage_25_Fabrication de matériel de manutention, de matériel pour les mines, la sidérurgie, le génie civil_T14_Construction mécanique_U05_Industries des biens d'équipement
+25.04_Fabrication de matériel de mines et de forage_25_Fabrication de matériel de manutention, de matériel pour les mines, la sidérurgie, le génie civil_T14_Construction mécanique_U05_Industries des biens d'équipement
+34.01_Horlogerie_34_Fabrication d'instruments et matériels de précision_T14_Construction mécanique_U05_Industries des biens d'équipement
+34.02_Fabrication d'appareils de pesage et de compteurs, d'instruments de métrologie_34_Fabrication d'instruments et matériels de précision_T14_Construction mécanique_U05_Industries des biens d'équipement
+34.03_Fabrication de lunettes pour la correction et la protection de la vue_34_Fabrication d'instruments et matériels de précision_T14_Construction mécanique_U05_Industries des biens d'équipement
+34.04_Fabrication d'instruments d'optique et de précision_34_Fabrication d'instruments et matériels de précision_T14_Construction mécanique_U05_Industries des biens d'équipement
+34.05_Fabrication de matériel photographique et cinématographique_34_Fabrication d'instruments et matériels de précision_T14_Construction mécanique_U05_Industries des biens d'équipement
+34.06_Fabrication de matériel médico-chirurgical et de prothèses_34_Fabrication d'instruments et matériels de précision_T14_Construction mécanique_U05_Industries des biens d'équipement
+34.07_Fabrication de roulements_34_Fabrication d'instruments et matériels de précision_T14_Construction mécanique_U05_Industries des biens d'équipement
+27.01_Fabrication de matériel de traitement de l'information_27_Fabrication de machines de bureau et de matériel de traitement de l'information_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+27.02_Fabrication de machines de bureau_27_Fabrication de machines de bureau et de matériel de traitement de l'information_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.10_Fabrication d'équipements de distribution, de commande à basse tension ; d'applications de l'électronique de puissance_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.11_Fabrication de matériel électrique de grande puissance ou à haute tension_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.12_Fabrication d'appareillage industriel à basse tension, de relais ; de matériel de signalisation_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.13_Fabrication de machines tournantes et transformateurs électriques de petite et moyenne puissance_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.14_Fabrication d'isolateurs et pièces isolantes en verre et céramique_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.15_Fabrication d'équipements d'automatisation de processus industriels_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.16_Réparation de gros matériel électrique_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.17_Fabrication de matériel d'éclairage_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.18_Fabrication de fils et câbles isolés pour l'électricité_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.19_Fabrication et installation d'ascenseurs, monte-charge et escaliers mécaniques_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.21_Fabrication d'appareillage électrique d'installation_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.22_Fabrication de piles électriques et appareils d'éclairage à bas voltage_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.23_Fabrication d'accumulateurs_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+28.24_Fabrication de lampes électriques_28_Fabrication de matériel électrique_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+29.11_Fabrication de matériel télégraphique et téléphonique_29_Fabrication de matériel électronique ménager et professionnel_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+29.12_Fabrication d'appareils de radiologie et d'électronique médicale_29_Fabrication de matériel électronique ménager et professionnel_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+29.13_Fabrication d'appareils de contrôle et de régulation spécifiquement conçus pour l'automatisme industriel, d'instruments et d'appareils électriques et électroniques de mesure_29_Fabrication de matériel électronique ménager et professionnel_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+29.14_Fabrication de matériel professionnel électronique et radioélectrique_29_Fabrication de matériel électronique ménager et professionnel_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+29.15_Fabrication de composants passifs et de condensateurs fixes_29_Fabrication de matériel électronique ménager et professionnel_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+29.16_Fabrication de tubes électroniques et de semi-conducteurs_29_Fabrication de matériel électronique ménager et professionnel_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+29.21_Fabrication d'appareils radiorécepteur et de téléviseurs_29_Fabrication de matériel électronique ménager et professionnel_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+29.22_Fabrication d'appareils d'enregistrement et de reproduction du son et de l'image et de supports d'enregistrement_29_Fabrication de matériel électronique ménager et professionnel_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+30.01_Fabrication d'appareils frigorifiques domestiques, de machines à laver le linge et à laver la vaisselle_30_Fabrication d'équipement ménager_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+30.02_Fabrication d'appareils ménagers de cuisine, de chauffage de l'eau et de chauffage de l'air non électriques_30_Fabrication d'équipement ménager_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+30.03_Fabrication d'autres appareils d'équipement ménager_30_Fabrication d'équipement ménager_T15_Construction électrique et électronique_U05_Industries des biens d'équipement
+31.11_Construction de voitures particulières_31_Construction de véhicules automobiles et d'autres matériels de transport terrestre_T16_Construction de véhicules automobiles et d'autres matériels de transport terrestre_U05_Industries des biens d'équipement
+31.12_Construction de caravanes et remorques de tourisme_31_Construction de véhicules automobiles et d'autres matériels de transport terrestre_T16_Construction de véhicules automobiles et d'autres matériels de transport terrestre_U05_Industries des biens d'équipement
+31.13_Fabrication de pièces et équipements spécifiques pour automobiles_31_Construction de véhicules automobiles et d'autres matériels de transport terrestre_T16_Construction de véhicules automobiles et d'autres matériels de transport terrestre_U05_Industries des biens d'équipement
+31.14_Construction de véhicules utilitaires_31_Construction de véhicules automobiles et d'autres matériels de transport terrestre_T16_Construction de véhicules automobiles et d'autres matériels de transport terrestre_U05_Industries des biens d'équipement
+31.15_Construction de carrosseries, bennes, remorques autres que de tourisme_31_Construction de véhicules automobiles et d'autres matériels de transport terrestre_T16_Construction de véhicules automobiles et d'autres matériels de transport terrestre_U05_Industries des biens d'équipement
+31.16_Fabrication de motocycles et cycles_31_Construction de véhicules automobiles et d'autres matériels de transport terrestre_T16_Construction de véhicules automobiles et d'autres matériels de transport terrestre_U05_Industries des biens d'équipement
+31.17_Fabrication de pièces et équipements pour cycles et motocycles_31_Construction de véhicules automobiles et d'autres matériels de transport terrestre_T16_Construction de véhicules automobiles et d'autres matériels de transport terrestre_U05_Industries des biens d'équipement
+31.21_Fabrication et réparation de matériel ferroviaire roulant et d'autres matériels de transport guide_31_Construction de véhicules automobiles et d'autres matériels de transport terrestre_T16_Construction de véhicules automobiles et d'autres matériels de transport terrestre_U05_Industries des biens d'équipement
+26.01_Fabrication de véhicules blindés_26_Industrie de l'armement_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+26.02_Fabrication d'armes et munitions de guerre_26_Industrie de l'armement_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+32.01_Construction de bâtiments de guerre_32_Construction navale_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+32.02_Construction de navires de marine marchande_32_Construction navale_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+32.03_Construction d'autres bateaux_32_Construction navale_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+32.04_Fabrication et pose d'équipements spécifiques de bord_32_Construction navale_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+32.05_Réparation de navires_32_Construction navale_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+33.01_Construction de cellules d'aéronefs_33_Construction aéronautique_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+33.02_Fabrication de propulseurs d'aéronefs et d'équipements de propulseurs_33_Construction aéronautique_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+33.03_Fabrication d'équipements spécifiques pour les aéronefs_33_Construction aéronautique_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+33.04_Construction d'engins et de lanceurs spatiaux_33_Construction aéronautique_T17_Construction navale et aéronautique, armement_U05_Industries des biens d'équipement
+18.01_Fabrication d'allumettes_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.02_Fabrication d'abrasifs appliqués_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.03_Fabrication d'explosifs, d'accessoires de mise à feu et d'artifices_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.04_Fabrication de colles_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.05_Fabrication de produits savonniers et de produits détergents_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.06_Fabrication de produits de ménage et de produits d'entretien_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.07_Fabrication de peintures, vernis, couleurs fines, encres d'imprimerie_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.08_Fabrication de produits phytosanitaires_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.09_Fabrication de produits photographiques et cinématographiques_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.10_Fabrication de charbons artificiels, de terres actives et de produits chimiques à usage métallurgique et mécanique_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+18.11_Parfumerie_18_Parachimie_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+19.01_Fabrication de spécialités pharmaceutiques_19_Industrie pharmaceutique_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+19.02_Fabrication d'autres produits pharmaceutiques_19_Industrie pharmaceutique_T12_Parachimie et industrie pharmaceutique_U06_Industries des biens de consommation courante
+44.10_Préparation et commerce de la laine, délainage_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.11_Préparation de lin, chanvre, et d'autres plantes textiles_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.12_Filterie_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.13_Filature de lin et de chanvre_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.14_Filature de l'industrie cotonnière_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.15_Filature de l'industrie lainière - cycle cardé_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.16_Filature de l'industrie lainière - cycle peigné_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.17_Moulinage et texturation de la soie et des textiles artificiels et synthétiques_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.18_Teintures, apprêts et impressions_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.20_Fabrication d'étoffes à mailles_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.21_Fabrication de chandails, pull-over, polos, gilets etc... En bonneterie_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.22_Fabrication d'autres vêtements de dessus de bonneterie_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.23_Fabrication de sous-vêtements de bonneterie_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.24_Fabrication d'articles chaussants de bonneterie_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.25_Fabrication d'autres articles de bonneterie_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.30_Tissage des industries cotonnières et linières_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.31_Tissage de l'industrie lainière_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.32_Tissage de soierie_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.33_Industrie du jute_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.34_Fabrication de tapis_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.35_Fabrication de feutre_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.36_Fabrication d'étoffes non tissées ni tricotées_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.37_Enduction d'étoffes_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.38_Fabrication de produits textiles élastiques_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.39_Ficellerie, corderie, fabrication de filets_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.40_Ouaterie_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.41_Fabrication de dentelles, tulles, broderies et guipures_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+44.42_Fabrication de rubans, tresses, passementeries et articles textiles divers_44_Industrie textile_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.01_Confection de vêtements masculins_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.02_Confection de vêtements féminins_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.03_Confection de vêtements pour enfants_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.04_Habillement sur mesure_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.05_Confection de chemiserie et lingerie_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.06_Confection de vêtements en matières plastiques_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.07_Confection de corsets, gaines et soutien-gorges_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.08_Confection de chapellerie pour hommes et femmes_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.09_Fabrication d'accessoires divers de l'habillement_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+47.10_Fabrication de pelleterie et fourrures_47_Industrie de l'habillement_T18_Industries textiles et de l'habillement_U06_Industries des biens de consommation courante
+45.11_Tannerie, mégisserie_45_Industrie du cuir_T19_Industries du cuir et de la chaussure_U06_Industries des biens de consommation courante
+45.21_Fabrication d'articles de maroquinerie, d'articles de voyage et de chasse_45_Industrie du cuir_T19_Industries du cuir et de la chaussure_U06_Industries des biens de consommation courante
+45.22_Fabrication de gants_45_Industrie du cuir_T19_Industries du cuir et de la chaussure_U06_Industries des biens de consommation courante
+45.23_Fabrication d'articles divers en cuir et similaires_45_Industrie du cuir_T19_Industries du cuir et de la chaussure_U06_Industries des biens de consommation courante
+46.01_Fabrication de chaussures et d'autres articles chaussants_46_Industrie de la chaussure_T19_Industries du cuir et de la chaussure_U06_Industries des biens de consommation courante
+48.01_Scierie_48_Travail mécanique du bois_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+48.02_Fabrication d'éléments de charpente et de menuiseries de bâtiment_48_Travail mécanique du bois_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+48.03_Fabrication de parquets, moulures et baguettes_48_Travail mécanique du bois_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+48.04_Fabrication et transformation de panneaux, bois de placage, bois améliorés et traités_48_Travail mécanique du bois_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+48.05_Fabrication d'emballages en bois_48_Travail mécanique du bois_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+48.06_Fabrication de bâtiments préfabriqués légers_48_Travail mécanique du bois_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+48.07_Fabrication d'objets divers en bois_48_Travail mécanique du bois_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+49.01_Fabrication de meubles meublants_49_Industrie de l'ameublement_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+49.02_Fabrication de sièges_49_Industrie de l'ameublement_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+49.03_Fabrication de meubles de cuisine et meubles en bois blanc_49_Industrie de l'ameublement_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+49.04_Fabrication de literie_49_Industrie de l'ameublement_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+49.05_Fabrication de meubles divers et industries connexes à l'industrie de l'ameublement_49_Industrie de l'ameublement_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+49.06_Fabrication de mobilier fonctionnel non métallique_49_Industrie de l'ameublement_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.01_Fabrication de jeux, jouets et d'articles de puériculture_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.02_Fabrication d'articles de sport et de campement_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.03_Fabrication de bateaux de plaisance_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.04_Bijouterie, joaillerie_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.05_Fabrication d'instruments de musique_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.06_Fabrication d'articles de bureau et d'articles de paris_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.07_Fabrication d'accessoires d'ameublement en bronze et fer forgé, statuettes et articles funéraires_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.08_Fabrication d'articles de brosserie, d'articles de vannerie et d'articles en liège_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.09_Laboratoires photographiques et cinématographiques_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+54.10_Fabrication d'articles divers non désignés ailleurs_54_Industries diverses_T20_Industries du bois et de l'ameublement ; industries diverses_U06_Industries des biens de consommation courante
+51.01_Agences de presse_51_Imprimerie, presse, édition_T22_Imprimerie, presse, édition_U06_Industries des biens de consommation courante
+51.10_Imprimerie de labeur_51_Imprimerie, presse, édition_T22_Imprimerie, presse, édition_U06_Industries des biens de consommation courante
+51.11_Industries connexes à l'imprimerie_51_Imprimerie, presse, édition_T22_Imprimerie, presse, édition_U06_Industries des biens de consommation courante
+51.12_Edition_51_Imprimerie, presse, édition_T22_Imprimerie, presse, édition_U06_Industries des biens de consommation courante
+51.20_Presse_51_Imprimerie, presse, édition_T22_Imprimerie, presse, édition_U06_Industries des biens de consommation courante
+51.30_Edition de disques, bandes et cassettes enregistrées_51_Imprimerie, presse, édition_T22_Imprimerie, presse, édition_U06_Industries des biens de consommation courante
+55.10_Travaux d'aménagement des terres et des eaux ; voirie ; parcs et jardins_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.11_Construction de lignes de transport d'électricité_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.12_Travaux d'infrastructure générale_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.13_Construction de chaussées_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.20_Entreprises de forages, sondages ; fondations spéciales_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.30_Construction d'ossatures autres que métalliques_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.31_Installation industrielle, montage levage_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.40_Installation électrique_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.50_Construction industrialisée_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.60_Maçonnerie et travaux courants de béton armé_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.70_Génie climatique_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.71_Menuiserie-serrurerie_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.72_Couverture, plomberie, installations sanitaires_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+55.73_Aménagements, finitions_55_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_T24_Industrie de mise en oeuvre du bâtiment et du génie civil et agricole_U07_Industries de mise en oeuvre du bâtiment et du génie civil et agricole
+57.01_Commerce de gros de matières premières agricoles_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.02_Commerce de gros de bestiaux_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.03_Commerce de gros de fruits et légumes_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.04_Commerce de gros de viandes sans abattage_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.05_Commerce de gros de produits laitiers_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.06_Commerce de gros de volailles et gibiers_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.07_Commerce de gros de poissons_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.08_Commerce de gros de vins, spiritueux, liqueurs_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.09_Commerce de gros d'autres boissons_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.10_Commerce de gros d'épicerie_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+57.11_Commerces de gros spécialisés de produits alimentaires divers_57_Commerce de gros alimentaire_T25_Commerce de gros alimentaire_U08_Commerce
+58.01_Commerce de gros d'accessoires d'automobiles et de matériel de garage_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.02_Commerce de gros de pneumatiques, cycles et motocycles_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.03_Commerce de gros de quincaillerie et d'appareils ménagers_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.04_Commerce de gros de matériel électrique et électronique_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.05_Commerce de gros des textiles_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.06_Commerce de gros de l'habillement, des chaussures et de la maroquinerie_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.07_Commerce de gros de produits pharmaceutiques_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.08_Commerce de gros de parfumerie, produits de beauté_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.09_Commerce de gros de droguerie, de produits d'entretien_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.10_Commerce de gros de céramique et verrerie_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.11_Commerce de gros de jouets, papeterie et articles de fumeurs_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+58.12_Commerces de gros divers_58_Commerce de gros non alimentaire_T26_Commerce de gros non alimentaire_U08_Commerce
+59.01_Commerce des textiles bruts_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.02_Commerce de gros de cuirs et peaux_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.03_Commerce de gros de charbon, minerais et minéraux_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.04_Commerce de gros de produits pétroliers_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.05_Commerce de métaux_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.06_Commerce de produits chimiques industriels_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.07_Commerce du bois_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.08_Commerce de matériaux de construction, de verre à vitres et d'appareils sanitaires_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.09_Commerce de matériel agricole_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.10_Commerce d'équipements et de fournitures pour l'industrie_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.11_Commerce de matériel et mobilier de bureau_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.12_Commerce de matériel pour le bâtiment et les travaux publics_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.13_Commerce de fournitures diverses pour les utilisateurs professionnels du commerce et des services_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+59.14_Commerce de papiers et cartons en l'état_59_Commerce de gros inter-industriel_T26_Commerce de gros non alimentaire_U08_Commerce
+60.01_Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et demi produits_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.02_Intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques pour l'industrie_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.03_Intermédiaires du commerce en bois et matériaux de construction_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.04_Intermédiaires du commerce en machines, matériel et véhicules_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.05_Intermédiaires du commerce en meubles, articles de ménage et quincaillerie_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.06_Intermédiaires du commerce en textiles habillement, chaussures et articles en cuir_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.07_Intermédiaires du commerce spécialisés en produits alimentaires_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.08_Centrales d'achats en produits alimentaires_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.09_Intermédiaires du commerce spécialisés en produits non désignés ailleurs_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.10_Intermédiaires du commerce en produits divers (sans prédominance)_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+60.11_Centrales d'achats en produits non alimentaires_60_Intermédiaires du commerce_T26_Commerce de gros non alimentaire_U08_Commerce
+61.01_Exploitation de super marchés_61_Commerce de détail d'alimentation générale de grande surface_T27_Commerce de détail alimentaire_U08_Commerce
+61.02_Exploitation de magasins populaires_61_Commerce de détail d'alimentation générale de grande surface_T27_Commerce de détail alimentaire_U08_Commerce
+61.03_Exploitation d'hypermarchés_61_Commerce de détail d'alimentation générale de grande surface_T27_Commerce de détail alimentaire_U08_Commerce
+62.11_Commerce de détail indépendant d'alimentation générale_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.12_Exploitation de supérettes indépendantes_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.21_Exploitation de magasins d'alimentation générale dépendant d'une entreprise à magasins multiples_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.22_Exploitation de supérettes dépendant d'une entreprise à magasins multiples_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.30_Coopératives alimentaires d'entreprise ou d'administration_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.41_Commerce de détail de fruits et légumes_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.42_Commerce de détail de produits laitiers_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.43_Commerce de détail des viandes_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.44_Commerce de détail de poissons et coquillages_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.45_Commerce de détail de vins et boissons_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+62.46_Commerce de détail de confiserie et commerces de détail alimentaires divers_62_Commerce de détail alimentaire de proximité ou spécialisé_T27_Commerce de détail alimentaire_U08_Commerce
+63.01_Grands magasins_63_Commerce de détail non alimentaire non spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+63.02_Autres grandes surfaces non spécialisées non alimentaires_63_Commerce de détail non alimentaire non spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+63.03_Grandes surfaces semi spécialisées non alimentaires_63_Commerce de détail non alimentaire non spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+63.04_Entreprises de vente par correspondance à assortiment général_63_Commerce de détail non alimentaire non spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+63.05_Autres commerces non alimentaires non spécialisés_63_Commerce de détail non alimentaire non spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.11_Commerce de détail de l'habillement_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.12_Commerce de détail de la chaussure voyage_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.13_Commerce de détail de la maroquinerie et des articles de voyage_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.14_Commerce de détail des textiles pour la maison_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.21_Commerce de détail du meuble_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.22_Commerce de détail de quincaillerie et d'appareils ménagers_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.23_Commerce de détail de la droguerie, couleurs vernis_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.24_Commerce de détail de matériel électrique, radioélectrique et électroménager_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.25_Autres commerces de détail de l'équipement du foyer_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.30_Pharmacies_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.40_Commerce de détail d'articles médicaux et de produits de beauté_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.41_Commerce de détail et réparation de motocycles, cycles et véhicules divers_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.42_Commerce de détail des charbons et combustibles_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.43_Commerce de détail de livres, papeterie et fournitures de bureau_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.44_Commerce de détail d'optique (médicale et non médicale) et de photographie_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.45_Commerce de détail de l'horlogerie-bijouterie_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.46_Commerce de détail de fleurs, graines et petits animaux d'agrément_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.47_Commerce de détail d'articles de sport et de camping_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.48_Commerce de détail du tabac_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+64.49_Commerces de détail divers_64_Commerce de détail non alimentaire spécialisé_T28_Commerce de détail non alimentaire_U08_Commerce
+68.01_Transports ferroviaires_68_Transports ferroviaires_T31_Transports_U09_Transports et télécommunications
+69.11_Transports routiers de marchandises en zone longue_69_Transports routiers, transports urbains, transports par conduite_T31_Transports_U09_Transports et télécommunications
+69.12_Camionnage et transport routier de marchandises en zone courte_69_Transports routiers, transports urbains, transports par conduite_T31_Transports_U09_Transports et télécommunications
+69.21_Transports urbains de voyageurs_69_Transports routiers, transports urbains, transports par conduite_T31_Transports_U09_Transports et télécommunications
+69.22_Transports routiers de voyageurs_69_Transports routiers, transports urbains, transports par conduite_T31_Transports_U09_Transports et télécommunications
+69.23_Taxis_69_Transports routiers, transports urbains, transports par conduite_T31_Transports_U09_Transports et télécommunications
+69.24_Déménagement_69_Transports routiers, transports urbains, transports par conduite_T31_Transports_U09_Transports et télécommunications
+69.25_Location de véhicules industriels_69_Transports routiers, transports urbains, transports par conduite_T31_Transports_U09_Transports et télécommunications
+69.26_Transport par conduite_69_Transports routiers, transports urbains, transports par conduite_T31_Transports_U09_Transports et télécommunications
+70.01_Transports fluviaux de passagers_70_Navigation intérieure_T31_Transports_U09_Transports et télécommunications
+70.02_Transports fluviaux de marchandises_70_Navigation intérieure_T31_Transports_U09_Transports et télécommunications
+71.01_Transports maritimes autres que de produits pétroliers_71_Transports maritimes et navigation côtière_T31_Transports_U09_Transports et télécommunications
+71.02_Transports maritimes de produits pétroliers_71_Transports maritimes et navigation côtière_T31_Transports_U09_Transports et télécommunications
+71.03_Navigation côtière et d'estuaire_71_Transports maritimes et navigation côtière_T31_Transports_U09_Transports et télécommunications
+72.01_Transports aériens_72_Transports aériens_T31_Transports_U09_Transports et télécommunications
+73.01_Gares routières_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+73.02_Ports fluviaux et voies fluviales_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+73.03_Ports maritimes_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+73.04_Aéroports_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+73.05_Exploitation d'ouvrages routiers à péage_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+73.06_Exploitation de parkings_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+73.07_Entrepôts autres que frigorifiques_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+73.08_Entrepôts frigorifiques_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+73.09_Remorquage et pilotage_73_Activités annexes des transports et entrepôts_T31_Transports_U09_Transports et télécommunications
+74.01_Collecte de fret maritime_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.02_Collecte de fret aérien_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.03_Collecte de fret terrestre et fluvial_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.04_Manutention portuaire_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.05_Manutention terrestre et fluviale_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.06_Activités spécifiques d'auxiliaires des transports maritimes_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.07_Activités spécifiques d'auxiliaires de transport aérien_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.08_Autres auxiliaires des transports_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.09_Agences de voyages_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+74.10_Routage_74_Auxiliaires de transport et agences de voyages_T31_Transports_U09_Transports et télécommunications
+75.01_P.T.T. - services communs et recherche_75_Télécommunications et postes_T32_Télécommunications et postes_U09_Transports et télécommunications
+75.02_P.T.T. - services de télécommunications_75_Télécommunications et postes_T32_Télécommunications et postes_U09_Transports et télécommunications
+75.03_P.T.T. - services postaux et financiers_75_Télécommunications et postes_T32_Télécommunications et postes_U09_Transports et télécommunications
+75.04_Activités de télécommunications hors p.t.t._75_Télécommunications et postes_T32_Télécommunications et postes_U09_Transports et télécommunications
+65.01_Commerce de détail d'accessoires et d'équipements automobiles_65_Réparation et commerce de l'automobile_T29_Réparation et commerce de l'automobile_U10_Services marchands
+65.02_Commerce de détail de carburants et lubrifiants_65_Réparation et commerce de l'automobile_T29_Réparation et commerce de l'automobile_U10_Services marchands
+65.03_Vente et réparation de véhicules automobiles_65_Réparation et commerce de l'automobile_T29_Réparation et commerce de l'automobile_U10_Services marchands
+65.06_Réparation de véhicules automobiles_65_Réparation et commerce de l'automobile_T29_Réparation et commerce de l'automobile_U10_Services marchands
+67.01_Restaurants et cafés-restaurants (sans hébergement)_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.02_Cantines_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.03_Traiteurs_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.04_Débits de boissons (sans spectacle)_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.05_Cafés-tabacs_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.06_Débits de boissons avec spectacle_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.07_Cafés associés à une autre activité_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.08_Hôtels avec restaurant_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.09_Hôtels sans restaurant_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.10_Wagons-lits et wagons-restaurants_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.11_Foyers d'étudiants et de jeunes travailleurs, résidences universitaires_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.12_Installations d'hébergement à équipements développés_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+67.13_Installations d'hébergement à équipements légers_67_Hôtels, cafés, restaurants_T30_Hôtels, cafés, restaurants_U10_Services marchands
+56.01_Récupération de ferraille et vieux métaux non ferreux_56_Récupération_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+56.02_Récupération de produits divers_56_Récupération_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+76.00_Holdings_76_Holdings_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.01_Cabinets d'études techniques_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.02_Cabinets d'études économiques et sociologiques_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.03_Cabinets d'études informatiques et d'organisation_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.04_Travaux à façon informatiques_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.05_Cabinets d'architecte_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.06_Cabinets de métreur et de géomètre_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.07_Cabinets de conseils en information et documentation_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.08_Cabinets juridiques et offices publics et ministériels_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.09_Cabinets d expertise comptable et d analyse financière_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.10_Créateurs et intermédiaires en publicité_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.11_Régies publicitaires_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.12_Travaux à façon divers_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.13_Prestation temporaire de personnel_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.14_Services divers rendus principalement aux entreprises_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+77.15_Ordres et syndicats professionnels_77_Activités d'études, de conseil et d'assistance_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+78.01_Auxiliaires financiers_78_Auxiliaires financiers et d'assurances_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+78.02_Auxiliaires d'assurances_78_Auxiliaires financiers et d'assurances_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+79.01_Promotion immobilière_79_Promoteurs et sociétés immobilières_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+79.02_Promotion en infrastructure (services marchands)_79_Promoteurs et sociétés immobilières_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+79.03_Supports juridiques de programmes_79_Promoteurs et sociétés immobilières_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+79.04_Administration d'immeubles_79_Promoteurs et sociétés immobilières_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+79.05_Administration d'infrastructures_79_Promoteurs et sociétés immobilières_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+79.06_Agences immobilières_79_Promoteurs et sociétés immobilières_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+80.01_Location de machines et équipements agricoles_80_Location de biens domestiques et industriels_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+80.02_Location de matériel pour le bâtiment et les travaux publics_80_Location de biens domestiques et industriels_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+80.03_Location de matériel de bureau_80_Location de biens domestiques et industriels_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+80.04_Location de voitures particulières_80_Location de biens domestiques et industriels_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+80.05_Location de wagons_80_Location de biens domestiques et industriels_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+80.06_Location de biens de consommation_80_Location de biens domestiques et industriels_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+80.07_Crédit-bail mobilier_80_Location de biens domestiques et industriels_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+80.08_Location d'autres biens d'équipement_80_Location de biens domestiques et industriels_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+82.01_Enseignement général primaire et secondaire (services marchands)_82_Enseignement (services marchands)_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+82.02_Formation des adultes et formation continue (services marchands)_82_Enseignement (services marchands)_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+82.03_Autres enseignements spécialisés et professionnels et enseignement supérieur (services marchands)_82_Enseignement (services marchands)_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+82.04_Enseignement par correspondance (services marchands)_82_Enseignement (services marchands)_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+82.05_Professeurs indépendants_82_Enseignement (services marchands)_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+82.06_Auto-écoles, écoles de pilotage_82_Enseignement (services marchands)_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+83.01_Recherche scientifique et technique (services marchands)_83_Recherche (services marchands)_T33_Services marchands rendus principalement aux entreprises_U10_Services marchands
+66.01_Réparation de chaussures et d'autres articles en cuir_66_Réparations diverses_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+66.02_Réparation d'appareils électriques pour le ménage_66_Réparations diverses_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+66.03_Réparation de montres et horloges de bijouterie_66_Réparations diverses_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+66.04_Réparations non désignées ailleurs et sans spécialisation_66_Réparations diverses_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.01_Médecine systématique et de dépistage (services marchands)_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.02_Etablissements hospitaliers généraux_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.03_Cliniques générales_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.04_Etablissements hospitaliers spécialisés_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.05_Cliniques spécialisées_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.06_Dispensaires_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.07_Autres instituts pour la santé_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.08_Laboratoires d'analyses médicales extra-hospitaliers_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.09_Centres de transfusion sanguine et banques d'organes_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.10_Cabinets de médecin_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.11_Cabinets dentaires_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.12_Cabinets d'auxiliaires médicaux_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.13_Ambulances_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+84.14_Vétérinaires, cliniques vétérinaires_84_Santé (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+85.01_Crèches_85_Action sociale (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+85.02_Etablissements pour l'enfance protégée, handicapée ou inadaptée (services marchands)_85_Action sociale (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+85.03_Etablissements pour adultes nécessiteux, handicapés, ou inadaptés (services marchands)_85_Action sociale (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+85.04_Etablissements pour personnes âgées_85_Action sociale (services marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.01_Radiodiffusion et télévision_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.02_Production de films_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.03_Distribution de films_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.04_Gestion de salles de cinéma_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.05_Gestion de salles de spectacle (services marchands)_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.06_Autres spectacles et services récréatifs (services marchands)_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.07_Création et interprétation littéraires et artistiques (services marchands)_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.08_Services annexes aux spectacles_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.09_Jeux de hasard et d'argent_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.10_Gestion d'équipements et centres sportifs (services marchands)_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.11_Remontées mécaniques_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+86.12_Professeurs de sport et sportifs professionnels_86_Services récréatifs, culturels et sportifs (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.01_Laverie-blanchisserie-teinturerie de détail_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.02_Blanchisserie et teinturerie de gros_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.03_Salons de coiffure_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.04_Esthétique corporelle_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.05_Services funéraires_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.06_Studios de photographie_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.07_Services personnels divers_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.08_Services de nettoyage_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.09_Enlèvement des ordures (services marchands)_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+87.10_Autres services d'assainissement (services marchands)_87_Services divers (marchands)_T34_Services marchands rendus principalement aux particuliers_U10_Services marchands
+81.11_Location de logements_81_Location de biens immobiliers_T35_Location de biens immobiliers_U11_Location de biens immobiliers
+81.21_Location d'immeubles à usages industriels et commerciaux_81_Location de biens immobiliers_T35_Location de biens immobiliers_U11_Location de biens immobiliers
+81.22_Crédit bail immobilier_81_Location de biens immobiliers_T35_Location de biens immobiliers_U11_Location de biens immobiliers
+88.01_Assurances "vie et capitalisation"_88_Assurances_T36_Assurances_U12_Assurances
+88.02_Assurances "i.a.r.d."_88_Assurances_T36_Assurances_U12_Assurances
+88.03_Réassurance_88_Assurances_T36_Assurances_U12_Assurances
+88.04_Assurances relevant du code de la mutualité_88_Assurances_T36_Assurances_U12_Assurances
+88.05_Caisses de retraites relevant de la législation sur les assurances_88_Assurances_T36_Assurances_U12_Assurances
+89.01_Instituts d'émission_89_Institutions financières_T37_Institutions financières_U13_Institutions financières
+89.02_Banques de dépôts, d'affaires, de crédit à long et moyen terme_89_Institutions financières_T37_Institutions financières_U13_Institutions financières
+89.03_Crédit coopératif et mutuel_89_Institutions financières_T37_Institutions financières_U13_Institutions financières
+89.04_Etablissements financiers et unions économiques_89_Institutions financières_T37_Institutions financières_U13_Institutions financières
+89.05_Organismes financiers à statut légal spécial_89_Institutions financières_T37_Institutions financières_U13_Institutions financières
+89.06_Organismes de répartition d'emprunts collectifs obligataires_89_Institutions financières_T37_Institutions financières_U13_Institutions financières
+89.07_Sociétés de placements en valeurs mobilières_89_Institutions financières_T37_Institutions financières_U13_Institutions financières
+90.01_Pouvoirs publics_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.02_Administration centrale_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.03_Services extérieurs des administrations économiques et financières_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.04_Services extérieurs des autres administrations_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.05_Activités administratives spécialisées diverses_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.11_Administration locale_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.12_Promotion en infrastructure (services non marchands à caractère public)_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.13_Voirie et assainissement (services non marchand à caractère public)_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.21_Cours et tribunaux_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.22_Etablissements pénitentiaires_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.23_Etablissements d'éducation surveillée_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.24_Police nationale_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.25_Protection civile_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.26_Gendarmerie_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.31_Commandements territoriaux militaires_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.32_Forces et infrastructures des forces_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.33_Dépôts, magasins et organismes d'approvisionnement militaire_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.34_Ecoles militaires_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.35_Service de santé militaire_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+90.36_Laboratoires et centres d'essais militaires_90_Administration générale_T38_Services non marchands_U14_Services non marchands
+91.01_Organismes généraux de la sécurité sociale_91_Prévoyance et sécurité sociale_T38_Services non marchands_U14_Services non marchands
+91.02_Sécurité sociale : maladie, maternité, accidents de travail_91_Prévoyance et sécurité sociale_T38_Services non marchands_U14_Services non marchands
+91.03_Sécurité sociale : vieillesse_91_Prévoyance et sécurité sociale_T38_Services non marchands_U14_Services non marchands
+91.04_Caisses de retraites ne relevant pas de la législation sur les assurances_91_Prévoyance et sécurité sociale_T38_Services non marchands_U14_Services non marchands
+91.05_Sécurité sociale : allocations familiales_91_Prévoyance et sécurité sociale_T38_Services non marchands_U14_Services non marchands
+91.06_Couverture du risque chômage et autres garanties du maintien du revenu_91_Prévoyance et sécurité sociale_T38_Services non marchands_U14_Services non marchands
+92.11_Enseignement préscolaire (services non marchands à caractère public)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+92.12_Enseignement élémentaire (services non marchands à caractère public)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+92.13_Enseignement du second degré premier cycle (services non marchands à caractère public)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+92.14_Enseignement du second degré second cycle (services non marchands à caractère public)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+92.15_Enseignement supérieur (services non marchands à caractère public)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+92.16_Enseignement artistique (services non marchands à caractère public)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+92.17_Formation de fonctionnaires (services non marchands à caractère public)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+92.18_Formation des adultes et formation continue (services non marchands à caractère public)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+92.21_Enseignement.(services non marchands à caractère privé)_92_Enseignement (services non marchands)_T38_Services non marchands_U14_Services non marchands
+93.11_Recherche scientifique et technique (services non marchands à caractère public)_93_Recherche (services non marchands)_T38_Services non marchands_U14_Services non marchands
+93.21_Recherche scientifique et technique (services non marchands à caractère privé))_93_Recherche (services non marchands)_T38_Services non marchands_U14_Services non marchands
+94.11_Médecine systématique et de dépistage (services non marchands à caractère public)_94_Santé (services non marchands)_T38_Services non marchands_U14_Services non marchands
+94.21_Médecine systématique et de dépistage (services non marchands à caractère privé))_94_Santé (services non marchands)_T38_Services non marchands_U14_Services non marchands
+95.11_Organisme locaux d'action sociale (services non marchands à caractère public)_95_Action sociale (services non marchands)_T38_Services non marchands_U14_Services non marchands
+95.12_Etablissements pour l'enfance protégée, handicapée, ou inadaptée (services non marchands à caractère public)_95_Action sociale (services non marchands)_T38_Services non marchands_U14_Services non marchands
+95.13_Etablissements pour adultes nécessiteux, handicapés, ou inadaptés (services non marchands à caractère public)_95_Action sociale (services non marchands)_T38_Services non marchands_U14_Services non marchands
+95.21_Oeuvres et organismes sociaux à compétence générale (services non marchands à caractère privé)_95_Action sociale (services non marchands)_T38_Services non marchands_U14_Services non marchands
+95.22_Oeuvres et organismes sociaux spécialisés (services non marchands à caractère privé)_95_Action sociale (services non marchands)_T38_Services non marchands_U14_Services non marchands
+95.23_Etablissements pour l'enfance protégée, handicapée, inadaptée (services non marchands à caractère privé)_95_Action sociale (services non marchands)_T38_Services non marchands_U14_Services non marchands
+95.24_Etablissements pour adultes nécessiteux, handicapés ou inadaptés (services non marchands à caractère privé)_95_Action sociale (services non marchands)_T38_Services non marchands_U14_Services non marchands
+96.11_Gestion de bibliothèques (services non marchands à caractère public)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.12_Conservation du patrimoine culturel (services non marchands à caractère public)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.13_Gestion de salles de théâtre (services non marchands à caractère public)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.14_Gestion d'équipements culturels (services non marchands à caractère public)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.15_Gestion d'équipements socio-éducatifs (services non marchands à caractère public)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.16_Associations culturelles et socio-éducatives (services non marchands à caractère public)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.17_Gestion d'équipements sportifs (services non marchands à caractère public)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.18_Associations sportives (services non marchands à caractère public)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.21_Gestion de bibliothèques et conservation du patrimoine culturel (services non marchands à caractère privé)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.22_Gestion d'équipements culturels, socio-éducatifs et d'autres salles de spectacle (services non marchands à caractère privé)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.23_Associations culturelles et socio-éducatives (services non marchands à caractère privé)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.24_Gestion d'équipements sportifs (services non marchands à caractère privé)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+96.25_Associations sportives (services non marchands à caractère privé)_96_Services récréatifs, culturels et sportifs (non marchands)_T38_Services non marchands_U14_Services non marchands
+97.11_Organisations économiques (services non marchands à caractère public)_97_Services divers fournis à la collectivité (non marchands)_T38_Services non marchands_U14_Services non marchands
+97.12_Offices du tourisme (services non marchands à caractère public)_97_Services divers fournis à la collectivité (non marchands)_T38_Services non marchands_U14_Services non marchands
+97.21_Organisations syndicales (services non marchands à caractère prive)_97_Services divers fournis à la collectivité (non marchands)_T38_Services non marchands_U14_Services non marchands
+97.22_Organisations religieuses et philosophiques (services non marchands à caractère privé)_97_Services divers fournis à la collectivité (non marchands)_T38_Services non marchands_U14_Services non marchands
+97.23_Autres services fournis à la collectivité (services non marchands à caractère privé)_97_Services divers fournis à la collectivité (non marchands)_T38_Services non marchands_U14_Services non marchands
+98.01_Services domestiques_98_Services domestiques_T38_Services non marchands_U14_Services non marchands
+99.01_Représentation diplomatique étrangère en France ; organismes internationaux_99_Représentation diplomatique étrangère en France ; organismes internationaux_T49_Représentation diplomatique étrangère en France ; organismes internationaux_U19_Représentation diplomatique étrangère en France ; organismes internationaux
